@@ -1,1 +1,6926 @@
+[ {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 22.5,
+    "TimeLvl" : 2,
+    "TimeVSD" : 2,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 24.61,
+    "TimeLvl" : 2.01,
+    "TimeVSD" : 2.01,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 20.08,
+    "LevelTankB" : 22.15,
+    "TimeLvl" : 2.03,
+    "TimeVSD" : 2.03,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 14.41,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 2.04,
+    "TimeVSD" : 2.04,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 20.63,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 2.06,
+    "TimeVSD" : 2.06,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 23.24,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 2.08,
+    "TimeVSD" : 2.08,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 24.45,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 2.09,
+    "TimeVSD" : 2.09,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 2.11,
+    "TimeVSD" : 2.11,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 21.52,
+    "TimeLvl" : 2.13,
+    "TimeVSD" : 2.13,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 2.14,
+    "TimeVSD" : 2.14,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 20.08,
+    "LevelTankB" : 22.11,
+    "TimeLvl" : 2.16,
+    "TimeVSD" : 2.16,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 14.41,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 2.18,
+    "TimeVSD" : 2.18,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.8
+  }, {
+    "LevelTankA" : 20.7,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 2.19,
+    "TimeVSD" : 2.19,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 23.36,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 2.21,
+    "TimeVSD" : 2.21,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 24.1,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 2.23,
+    "TimeVSD" : 2.23,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 15.04,
+    "TimeLvl" : 2.24,
+    "TimeVSD" : 2.24,
+    "VSDInFlow" : 37.2,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 2.26,
+    "TimeVSD" : 2.26,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.56,
+    "LevelTankB" : 24.41,
+    "TimeLvl" : 2.28,
+    "TimeVSD" : 2.28,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54.2
+  }, {
+    "LevelTankA" : 15.7,
+    "LevelTankB" : 21.41,
+    "TimeLvl" : 2.29,
+    "TimeVSD" : 2.29,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44.8
+  }, {
+    "LevelTankA" : 15.08,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 2.31,
+    "TimeVSD" : 2.31,
+    "VSDInFlow" : 34.8,
+    "VSDOutFlow" : 38.6
+  }, {
+    "LevelTankA" : 21.37,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 2.33,
+    "TimeVSD" : 2.33,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 23.95,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 2.34,
+    "TimeVSD" : 2.34,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.87,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 2.36,
+    "TimeVSD" : 2.36,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 2.38,
+    "TimeVSD" : 2.38,
+    "VSDInFlow" : 34.8,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 22.81,
+    "TimeLvl" : 2.39,
+    "TimeVSD" : 2.39,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 21.29,
+    "LevelTankB" : 23.87,
+    "TimeLvl" : 2.41,
+    "TimeVSD" : 2.41,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.4
+  }, {
+    "LevelTankA" : 15.27,
+    "LevelTankB" : 20.9,
+    "TimeLvl" : 2.43,
+    "TimeVSD" : 2.43,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.4
+  }, {
+    "LevelTankA" : 15.27,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 2.44,
+    "TimeVSD" : 2.44,
+    "VSDInFlow" : 34.2,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 2.46,
+    "TimeVSD" : 2.46,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 24.57,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 2.48,
+    "TimeVSD" : 2.48,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.4,
+    "LevelTankB" : 15.08,
+    "TimeLvl" : 2.49,
+    "TimeVSD" : 2.49,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.4
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 2.51,
+    "TimeVSD" : 2.51,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 23.44,
+    "TimeLvl" : 2.53,
+    "TimeVSD" : 2.53,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 20.78,
+    "LevelTankB" : 23.24,
+    "TimeLvl" : 2.54,
+    "TimeVSD" : 2.54,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 50.6
+  }, {
+    "LevelTankA" : 15.16,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 2.56,
+    "TimeVSD" : 2.56,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 15.78,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 2.58,
+    "TimeVSD" : 2.58,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 2.59,
+    "TimeVSD" : 2.59,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 24.73,
+    "LevelTankB" : 20.78,
+    "TimeLvl" : 2.61,
+    "TimeVSD" : 2.61,
+    "VSDInFlow" : 30.4,
+    "VSDOutFlow" : 43
+  }, {
+    "LevelTankA" : 23.24,
+    "LevelTankB" : 15,
+    "TimeLvl" : 2.63,
+    "TimeVSD" : 2.63,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 2.64,
+    "TimeVSD" : 2.64,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 23.48,
+    "TimeLvl" : 2.66,
+    "TimeVSD" : 2.66,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 20.74,
+    "LevelTankB" : 23.24,
+    "TimeLvl" : 2.68,
+    "TimeVSD" : 2.68,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 50.4
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 2.69,
+    "TimeVSD" : 2.69,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 15.82,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 2.71,
+    "TimeVSD" : 2.71,
+    "VSDInFlow" : 33.8,
+    "VSDOutFlow" : 39.6
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 2.73,
+    "TimeVSD" : 2.73,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.73,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 2.74,
+    "TimeVSD" : 2.74,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.6
+  }, {
+    "LevelTankA" : 23.24,
+    "LevelTankB" : 14.65,
+    "TimeLvl" : 2.76,
+    "TimeVSD" : 2.76,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35.4
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 20.78,
+    "TimeLvl" : 2.78,
+    "TimeVSD" : 2.78,
+    "VSDInFlow" : 30.6,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 23.95,
+    "TimeLvl" : 2.79,
+    "TimeVSD" : 2.79,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 20.63,
+    "LevelTankB" : 22.81,
+    "TimeLvl" : 2.81,
+    "TimeVSD" : 2.81,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 49.6
+  }, {
+    "LevelTankA" : 15.04,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 2.83,
+    "TimeVSD" : 2.83,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 15.98,
+    "LevelTankB" : 20,
+    "TimeLvl" : 2.84,
+    "TimeVSD" : 2.84,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 2.86,
+    "TimeVSD" : 2.86,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 24.69,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 2.88,
+    "TimeVSD" : 2.88,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 23.13,
+    "LevelTankB" : 14.53,
+    "TimeLvl" : 2.89,
+    "TimeVSD" : 2.89,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.8
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.94,
+    "TimeLvl" : 2.91,
+    "TimeVSD" : 2.91,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 24.06,
+    "TimeLvl" : 2.93,
+    "TimeVSD" : 2.93,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 20.31,
+    "LevelTankB" : 22.66,
+    "TimeLvl" : 2.94,
+    "TimeVSD" : 2.94,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 14.73,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 2.96,
+    "TimeVSD" : 2.96,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 20.12,
+    "LevelTankB" : 20,
+    "TimeLvl" : 2.98,
+    "TimeVSD" : 2.98,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 22.73,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 2.99,
+    "TimeVSD" : 2.99,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 3,
+    "TimeVSD" : 3,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.57,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 3.01,
+    "TimeVSD" : 3.01,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 22.81,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 3.03,
+    "TimeVSD" : 3.03,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 49.4
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 21.48,
+    "TimeLvl" : 3.04,
+    "TimeVSD" : 3.04,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 3.06,
+    "TimeVSD" : 3.06,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 20.08,
+    "LevelTankB" : 22.11,
+    "TimeLvl" : 3.08,
+    "TimeVSD" : 3.08,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 14.49,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 3.09,
+    "TimeVSD" : 3.09,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 20.66,
+    "LevelTankB" : 20,
+    "TimeLvl" : 3.11,
+    "TimeVSD" : 3.11,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 23.36,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 3.13,
+    "TimeVSD" : 3.13,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.1,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 3.14,
+    "TimeVSD" : 3.14,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 15.04,
+    "TimeLvl" : 3.16,
+    "TimeVSD" : 3.16,
+    "VSDInFlow" : 37,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 3.18,
+    "TimeVSD" : 3.18,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.88,
+    "LevelTankB" : 24.45,
+    "TimeLvl" : 3.19,
+    "TimeVSD" : 3.19,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54.4
+  }, {
+    "LevelTankA" : 15.78,
+    "LevelTankB" : 21.48,
+    "TimeLvl" : 3.21,
+    "TimeVSD" : 3.21,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.2
+  }, {
+    "LevelTankA" : 14.69,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 3.23,
+    "TimeVSD" : 3.23,
+    "VSDInFlow" : 35.6,
+    "VSDOutFlow" : 37.8
+  }, {
+    "LevelTankA" : 21.29,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 3.24,
+    "TimeVSD" : 3.24,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 23.91,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 3.26,
+    "TimeVSD" : 3.26,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.91,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 3.28,
+    "TimeVSD" : 3.28,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 3.29,
+    "TimeVSD" : 3.29,
+    "VSDInFlow" : 35.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 22.66,
+    "TimeLvl" : 3.31,
+    "TimeVSD" : 3.31,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.45,
+    "LevelTankB" : 24.02,
+    "TimeLvl" : 3.33,
+    "TimeVSD" : 3.33,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53.4
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 21.29,
+    "TimeLvl" : 3.34,
+    "TimeVSD" : 3.34,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44.2
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 3.36,
+    "TimeVSD" : 3.36,
+    "VSDInFlow" : 34.8,
+    "VSDOutFlow" : 38.6
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 3.38,
+    "TimeVSD" : 3.38,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 24.65,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 3.39,
+    "TimeVSD" : 3.39,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.36,
+    "LevelTankB" : 14.61,
+    "TimeLvl" : 3.41,
+    "TimeVSD" : 3.41,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35.4
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 20.86,
+    "TimeLvl" : 3.43,
+    "TimeVSD" : 3.43,
+    "VSDInFlow" : 30.2,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 24.06,
+    "TimeLvl" : 3.44,
+    "TimeVSD" : 3.44,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 20.27,
+    "LevelTankB" : 22.66,
+    "TimeLvl" : 3.46,
+    "TimeVSD" : 3.46,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 14.69,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 3.48,
+    "TimeVSD" : 3.48,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 20.16,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 3.49,
+    "TimeVSD" : 3.49,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 22.77,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 3.51,
+    "TimeVSD" : 3.51,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.61,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 3.53,
+    "TimeVSD" : 3.53,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 22.81,
+    "LevelTankB" : 14.45,
+    "TimeLvl" : 3.54,
+    "TimeVSD" : 3.54,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.4
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 21.37,
+    "TimeLvl" : 3.56,
+    "TimeVSD" : 3.56,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 24.57,
+    "TimeLvl" : 3.58,
+    "TimeVSD" : 3.58,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 20,
+    "LevelTankB" : 22.15,
+    "TimeLvl" : 3.59,
+    "TimeVSD" : 3.59,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 3.61,
+    "TimeVSD" : 3.61,
+    "VSDInFlow" : 34.4,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 20.74,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 3.63,
+    "TimeVSD" : 3.63,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 23.32,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 3.64,
+    "TimeVSD" : 3.64,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 24.38,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 3.66,
+    "TimeVSD" : 3.66,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 14.41,
+    "TimeLvl" : 3.68,
+    "TimeVSD" : 3.68,
+    "VSDInFlow" : 39.2,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 22.03,
+    "TimeLvl" : 3.69,
+    "TimeVSD" : 3.69,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 21.52,
+    "LevelTankB" : 24.57,
+    "TimeLvl" : 3.71,
+    "TimeVSD" : 3.71,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 21.56,
+    "TimeLvl" : 3.73,
+    "TimeVSD" : 3.73,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.6
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 20,
+    "TimeLvl" : 3.74,
+    "TimeVSD" : 3.74,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 21.48,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 3.76,
+    "TimeVSD" : 3.76,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.06,
+    "LevelTankB" : 20.78,
+    "TimeLvl" : 3.78,
+    "TimeVSD" : 3.78,
+    "VSDInFlow" : 30.6,
+    "VSDOutFlow" : 42.8
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 3.79,
+    "TimeVSD" : 3.79,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 3.81,
+    "TimeVSD" : 3.81,
+    "VSDInFlow" : 34.8,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 22.77,
+    "TimeLvl" : 3.83,
+    "TimeVSD" : 3.83,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 21.25,
+    "LevelTankB" : 23.87,
+    "TimeLvl" : 3.84,
+    "TimeVSD" : 3.84,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.6
+  }, {
+    "LevelTankA" : 15.27,
+    "LevelTankB" : 20.9,
+    "TimeLvl" : 3.86,
+    "TimeVSD" : 3.86,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.4
+  }, {
+    "LevelTankA" : 15.35,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 3.88,
+    "TimeVSD" : 3.88,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 3.9,
+    "TimeVSD" : 3.9,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 24.57,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 3.91,
+    "TimeVSD" : 3.91,
+    "VSDInFlow" : 30.8,
+    "VSDOutFlow" : 42.6
+  }, {
+    "LevelTankA" : 23.36,
+    "LevelTankB" : 15.16,
+    "TimeLvl" : 3.93,
+    "TimeVSD" : 3.93,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.8
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 3.95,
+    "TimeVSD" : 3.95,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 23.4,
+    "TimeLvl" : 3.96,
+    "TimeVSD" : 3.96,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 20.74,
+    "LevelTankB" : 23.28,
+    "TimeLvl" : 3.98,
+    "TimeVSD" : 3.98,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 50.8
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 4,
+    "TimeVSD" : 4,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 14.41,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 4,
+    "TimeVSD" : 4,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.6
+  }, {
+    "LevelTankA" : 15.9,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 4.01,
+    "TimeVSD" : 4.01,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 4.03,
+    "TimeVSD" : 4.03,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 25,
+    "LevelTankB" : 20.78,
+    "TimeLvl" : 4.05,
+    "TimeVSD" : 4.05,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.8
+  }, {
+    "LevelTankA" : 23.2,
+    "LevelTankB" : 14.65,
+    "TimeLvl" : 4.06,
+    "TimeVSD" : 4.06,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35.4
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 4.08,
+    "TimeVSD" : 4.08,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 4.1,
+    "TimeVSD" : 4.1,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 4.11,
+    "TimeVSD" : 4.11,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 4.13,
+    "TimeVSD" : 4.13,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 4.15,
+    "TimeVSD" : 4.15,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 4.16,
+    "TimeVSD" : 4.16,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 4.18,
+    "TimeVSD" : 4.18,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : "-",
+    "LevelTankB" : "-",
+    "TimeLvl" : 4.18,
+    "TimeVSD" : 4.18,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 15.12,
+    "TimeLvl" : 4.2,
+    "TimeVSD" : 4.2,
+    "VSDInFlow" : 36.8,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 4.22,
+    "TimeVSD" : 4.22,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.52,
+    "LevelTankB" : 24.41,
+    "TimeLvl" : 4.23,
+    "TimeVSD" : 4.23,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54.2
+  }, {
+    "LevelTankA" : 15.7,
+    "LevelTankB" : 21.45,
+    "TimeLvl" : 4.25,
+    "TimeVSD" : 4.25,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 4.27,
+    "TimeVSD" : 4.27,
+    "VSDInFlow" : 34.6,
+    "VSDOutFlow" : 38.8
+  }, {
+    "LevelTankA" : 21.41,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 4.28,
+    "TimeVSD" : 4.28,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 24.02,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 4.3,
+    "TimeVSD" : 4.3,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.79,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 4.32,
+    "TimeVSD" : 4.32,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.8
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 4.33,
+    "TimeVSD" : 4.33,
+    "VSDInFlow" : 34.8,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 23.13,
+    "TimeLvl" : 4.35,
+    "TimeVSD" : 4.35,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 23.79,
+    "TimeLvl" : 4.37,
+    "TimeVSD" : 4.37,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.2
+  }, {
+    "LevelTankA" : 15.23,
+    "LevelTankB" : 20.86,
+    "TimeLvl" : 4.38,
+    "TimeVSD" : 4.38,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.2
+  }, {
+    "LevelTankA" : 15.31,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 4.4,
+    "TimeVSD" : 4.4,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 4.42,
+    "TimeVSD" : 4.42,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.57,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 4.43,
+    "TimeVSD" : 4.43,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.36,
+    "LevelTankB" : 15.08,
+    "TimeLvl" : 4.45,
+    "TimeVSD" : 4.45,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.4
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 4.47,
+    "TimeVSD" : 4.47,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 23.48,
+    "TimeLvl" : 4.48,
+    "TimeVSD" : 4.48,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 20.82,
+    "LevelTankB" : 23.32,
+    "TimeLvl" : 4.5,
+    "TimeVSD" : 4.5,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 50.4
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 4.52,
+    "TimeVSD" : 4.52,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 15.82,
+    "LevelTankB" : 20,
+    "TimeLvl" : 4.53,
+    "TimeVSD" : 4.53,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 4.55,
+    "TimeVSD" : 4.55,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 25,
+    "LevelTankB" : 20.78,
+    "TimeLvl" : 4.57,
+    "TimeVSD" : 4.57,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.8
+  }, {
+    "LevelTankA" : 23.24,
+    "LevelTankB" : 14.69,
+    "TimeLvl" : 4.58,
+    "TimeVSD" : 4.58,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35.6
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 4.6,
+    "TimeVSD" : 4.6,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 23.87,
+    "TimeLvl" : 4.62,
+    "TimeVSD" : 4.62,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.35,
+    "LevelTankB" : 22.85,
+    "TimeLvl" : 4.63,
+    "TimeVSD" : 4.63,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 49.8
+  }, {
+    "LevelTankA" : 15,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 4.65,
+    "TimeVSD" : 4.65,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 20,
+    "LevelTankB" : 20,
+    "TimeLvl" : 4.67,
+    "TimeVSD" : 4.67,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 4.68,
+    "TimeVSD" : 4.68,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 24.65,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 4.7,
+    "TimeVSD" : 4.7,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 22.85,
+    "LevelTankB" : 14.45,
+    "TimeLvl" : 4.72,
+    "TimeVSD" : 4.72,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.4
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 21.33,
+    "TimeLvl" : 4.73,
+    "TimeVSD" : 4.73,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 24.45,
+    "TimeLvl" : 4.75,
+    "TimeVSD" : 4.75,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 20.23,
+    "LevelTankB" : 22.54,
+    "TimeLvl" : 4.77,
+    "TimeVSD" : 4.77,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 14.69,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 4.78,
+    "TimeVSD" : 4.78,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 20.16,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 4.8,
+    "TimeVSD" : 4.8,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 22.81,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 4.82,
+    "TimeVSD" : 4.82,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.53,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 4.83,
+    "TimeVSD" : 4.83,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 4.85,
+    "TimeVSD" : 4.85,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 21.6,
+    "TimeLvl" : 4.87,
+    "TimeVSD" : 4.87,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.6,
+    "LevelTankB" : 25,
+    "TimeLvl" : 4.88,
+    "TimeVSD" : 4.88,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 56
+  }, {
+    "LevelTankA" : 15.74,
+    "LevelTankB" : 21.91,
+    "TimeLvl" : 4.9,
+    "TimeVSD" : 4.9,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.2
+  }, {
+    "LevelTankA" : 14.69,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 4.92,
+    "TimeVSD" : 4.92,
+    "VSDInFlow" : 34.4,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 21.29,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 4.93,
+    "TimeVSD" : 4.93,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 23.98,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 4.95,
+    "TimeVSD" : 4.95,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 23.83,
+    "LevelTankB" : 15.23,
+    "TimeLvl" : 4.97,
+    "TimeVSD" : 4.97,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.2
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 4.98,
+    "TimeVSD" : 4.98,
+    "VSDInFlow" : 33.8,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 22.7,
+    "TimeLvl" : 5,
+    "TimeVSD" : 5,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 22.7,
+    "TimeLvl" : 5,
+    "TimeVSD" : 5,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.45,
+    "LevelTankB" : 23.91,
+    "TimeLvl" : 5.02,
+    "TimeVSD" : 5.02,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.8
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 20.98,
+    "TimeLvl" : 5.03,
+    "TimeVSD" : 5.03,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.8
+  }, {
+    "LevelTankA" : 15.04,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 5.05,
+    "TimeVSD" : 5.05,
+    "VSDInFlow" : 35.8,
+    "VSDOutFlow" : 37.6
+  }, {
+    "LevelTankA" : 21.41,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 5.07,
+    "TimeVSD" : 5.07,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 24.06,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 5.08,
+    "TimeVSD" : 5.08,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 15.23,
+    "TimeLvl" : 5.1,
+    "TimeVSD" : 5.1,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.2
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 5.12,
+    "TimeVSD" : 5.12,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 23.16,
+    "TimeLvl" : 5.13,
+    "TimeVSD" : 5.13,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 20.94,
+    "LevelTankB" : 23.44,
+    "TimeLvl" : 5.15,
+    "TimeVSD" : 5.15,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51.6
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 5.17,
+    "TimeVSD" : 5.17,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.8
+  }, {
+    "LevelTankA" : 15.31,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 5.18,
+    "TimeVSD" : 5.18,
+    "VSDInFlow" : 34.2,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 5.2,
+    "TimeVSD" : 5.2,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 24.61,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 5.22,
+    "TimeVSD" : 5.22,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.36,
+    "LevelTankB" : 15.04,
+    "TimeLvl" : 5.23,
+    "TimeVSD" : 5.23,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.2
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 5.25,
+    "TimeVSD" : 5.25,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 23.44,
+    "TimeLvl" : 5.27,
+    "TimeVSD" : 5.27,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 20.86,
+    "LevelTankB" : 23.28,
+    "TimeLvl" : 5.28,
+    "TimeVSD" : 5.28,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 50.8
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 5.3,
+    "TimeVSD" : 5.3,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 15.31,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 5.32,
+    "TimeVSD" : 5.32,
+    "VSDInFlow" : 34.6,
+    "VSDOutFlow" : 38.8
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 5.33,
+    "TimeVSD" : 5.33,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 24.65,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 5.35,
+    "TimeVSD" : 5.35,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.32,
+    "LevelTankB" : 14.69,
+    "TimeLvl" : 5.37,
+    "TimeVSD" : 5.37,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35.6
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 5.38,
+    "TimeVSD" : 5.38,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 23.87,
+    "TimeLvl" : 5.4,
+    "TimeVSD" : 5.4,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 20.66,
+    "LevelTankB" : 22.81,
+    "TimeLvl" : 5.42,
+    "TimeVSD" : 5.42,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 49.6
+  }, {
+    "LevelTankA" : 15.04,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 5.43,
+    "TimeVSD" : 5.43,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 15.86,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 5.45,
+    "TimeVSD" : 5.45,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 5.47,
+    "TimeVSD" : 5.47,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 24.73,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 5.48,
+    "TimeVSD" : 5.48,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.16,
+    "LevelTankB" : 14.49,
+    "TimeLvl" : 5.5,
+    "TimeVSD" : 5.5,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.6
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 21.29,
+    "TimeLvl" : 5.52,
+    "TimeVSD" : 5.52,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 24.41,
+    "TimeLvl" : 5.53,
+    "TimeVSD" : 5.53,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 20.2,
+    "LevelTankB" : 22.54,
+    "TimeLvl" : 5.55,
+    "TimeVSD" : 5.55,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 14.65,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 5.57,
+    "TimeVSD" : 5.57,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 20.16,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 5.58,
+    "TimeVSD" : 5.58,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 23.13,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 5.6,
+    "TimeVSD" : 5.6,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 24.45,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 5.62,
+    "TimeVSD" : 5.62,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 22.73,
+    "LevelTankB" : 14.57,
+    "TimeLvl" : 5.63,
+    "TimeVSD" : 5.63,
+    "VSDInFlow" : 38.4,
+    "VSDOutFlow" : 49.2
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 21.95,
+    "TimeLvl" : 5.65,
+    "TimeVSD" : 5.65,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 25,
+    "TimeLvl" : 5.67,
+    "TimeVSD" : 5.67,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 56
+  }, {
+    "LevelTankA" : 20.08,
+    "LevelTankB" : 21.99,
+    "TimeLvl" : 5.68,
+    "TimeVSD" : 5.68,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 14.57,
+    "LevelTankB" : 15.7,
+    "TimeLvl" : 5.7,
+    "TimeVSD" : 5.7,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 20.23,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 5.72,
+    "TimeVSD" : 5.72,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 23.16,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 5.73,
+    "TimeVSD" : 5.73,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 24.49,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 5.75,
+    "TimeVSD" : 5.75,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 22.77,
+    "LevelTankB" : 14.57,
+    "TimeLvl" : 5.77,
+    "TimeVSD" : 5.77,
+    "VSDInFlow" : 38.2,
+    "VSDOutFlow" : 49.4
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 21.99,
+    "TimeLvl" : 5.78,
+    "TimeVSD" : 5.78,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 24.69,
+    "TimeLvl" : 5.8,
+    "TimeVSD" : 5.8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.6
+  }, {
+    "LevelTankA" : 20,
+    "LevelTankB" : 21.91,
+    "TimeLvl" : 5.82,
+    "TimeVSD" : 5.82,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46
+  }, {
+    "LevelTankA" : 14.49,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 5.83,
+    "TimeVSD" : 5.83,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38
+  }, {
+    "LevelTankA" : 20.31,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 5.85,
+    "TimeVSD" : 5.85,
+    "VSDInFlow" : 33.8,
+    "VSDOutFlow" : 39.6
+  }, {
+    "LevelTankA" : 23.2,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 5.87,
+    "TimeVSD" : 5.87,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 24.41,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 5.88,
+    "TimeVSD" : 5.88,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 22.73,
+    "LevelTankB" : 14.73,
+    "TimeLvl" : 5.9,
+    "TimeVSD" : 5.9,
+    "VSDInFlow" : 37.8,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 22.11,
+    "TimeLvl" : 5.92,
+    "TimeVSD" : 5.92,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.6,
+    "LevelTankB" : 24.49,
+    "TimeLvl" : 5.93,
+    "TimeVSD" : 5.93,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54.6
+  }, {
+    "LevelTankA" : 15.78,
+    "LevelTankB" : 21.48,
+    "TimeLvl" : 5.95,
+    "TimeVSD" : 5.95,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.23,
+    "TimeLvl" : 5.97,
+    "TimeVSD" : 5.97,
+    "VSDInFlow" : 36.2,
+    "VSDOutFlow" : 37.2
+  }, {
+    "LevelTankA" : 20.94,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 5.98,
+    "TimeVSD" : 5.98,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 23.87,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 6,
+    "TimeVSD" : 6,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 24.02,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 6,
+    "TimeVSD" : 6,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 23.83,
+    "LevelTankB" : 15.04,
+    "TimeLvl" : 6.02,
+    "TimeVSD" : 6.02,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.2
+  }, {
+    "LevelTankA" : 22.85,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 6.03,
+    "TimeVSD" : 6.03,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 49.8
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 23.32,
+    "TimeLvl" : 6.05,
+    "TimeVSD" : 6.05,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 21.37,
+    "LevelTankB" : 23.4,
+    "TimeLvl" : 6.07,
+    "TimeVSD" : 6.07,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51.4
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 6.08,
+    "TimeVSD" : 6.08,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 14.61,
+    "LevelTankB" : 14.73,
+    "TimeLvl" : 6.1,
+    "TimeVSD" : 6.1,
+    "VSDInFlow" : 37.6,
+    "VSDOutFlow" : 35.8
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 6.12,
+    "TimeVSD" : 6.12,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 23.91,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 6.13,
+    "TimeVSD" : 6.13,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.91,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 6.15,
+    "TimeVSD" : 6.15,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.8
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 6.17,
+    "TimeVSD" : 6.17,
+    "VSDInFlow" : 34.8,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 22.73,
+    "TimeLvl" : 6.18,
+    "TimeVSD" : 6.18,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.45,
+    "LevelTankB" : 23.98,
+    "TimeLvl" : 6.2,
+    "TimeVSD" : 6.2,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53.2
+  }, {
+    "LevelTankA" : 15.66,
+    "LevelTankB" : 21.25,
+    "TimeLvl" : 6.22,
+    "TimeVSD" : 6.22,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44
+  }, {
+    "LevelTankA" : 14.57,
+    "LevelTankB" : 15.23,
+    "TimeLvl" : 6.23,
+    "TimeVSD" : 6.23,
+    "VSDInFlow" : 36.2,
+    "VSDOutFlow" : 37.2
+  }, {
+    "LevelTankA" : 20.9,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 6.25,
+    "TimeVSD" : 6.25,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 6.27,
+    "TimeVSD" : 6.27,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.98,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 6.28,
+    "TimeVSD" : 6.28,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 15.04,
+    "TimeLvl" : 6.3,
+    "TimeVSD" : 6.3,
+    "VSDInFlow" : 37.2,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 22.11,
+    "TimeLvl" : 6.32,
+    "TimeVSD" : 6.32,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 24.61,
+    "TimeLvl" : 6.33,
+    "TimeVSD" : 6.33,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.2
+  }, {
+    "LevelTankA" : 15.86,
+    "LevelTankB" : 21.6,
+    "TimeLvl" : 6.35,
+    "TimeVSD" : 6.35,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.8
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 6.37,
+    "TimeVSD" : 6.37,
+    "VSDInFlow" : 35.8,
+    "VSDOutFlow" : 37.6
+  }, {
+    "LevelTankA" : 20.66,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 6.38,
+    "TimeVSD" : 6.38,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 23.32,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 6.4,
+    "TimeVSD" : 6.4,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.1,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 6.42,
+    "TimeVSD" : 6.42,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 14.73,
+    "TimeLvl" : 6.43,
+    "TimeVSD" : 6.43,
+    "VSDInFlow" : 37.6,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 22.11,
+    "TimeLvl" : 6.45,
+    "TimeVSD" : 6.45,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 24.57,
+    "TimeLvl" : 6.47,
+    "TimeVSD" : 6.47,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55
+  }, {
+    "LevelTankA" : 15.86,
+    "LevelTankB" : 21.56,
+    "TimeLvl" : 6.48,
+    "TimeVSD" : 6.48,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.6
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.5,
+    "TimeVSD" : 6.5,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.52,
+    "TimeVSD" : 6.52,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.53,
+    "TimeVSD" : 6.53,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.55,
+    "TimeVSD" : 6.55,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.57,
+    "TimeVSD" : 6.57,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.58,
+    "TimeVSD" : 6.58,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.6,
+    "TimeVSD" : 6.6,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.62,
+    "TimeVSD" : 6.62,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.63,
+    "TimeVSD" : 6.63,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.65,
+    "TimeVSD" : 6.65,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.67,
+    "TimeVSD" : 6.67,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.68,
+    "TimeVSD" : 6.68,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.7,
+    "TimeVSD" : 6.7,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.72,
+    "TimeVSD" : 6.72,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.73,
+    "TimeVSD" : 6.73,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.75,
+    "TimeVSD" : 6.75,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.77,
+    "TimeVSD" : 6.77,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.78,
+    "TimeVSD" : 6.78,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.8,
+    "TimeVSD" : 6.8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.82,
+    "TimeVSD" : 6.82,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.83,
+    "TimeVSD" : 6.83,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.85,
+    "TimeVSD" : 6.85,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.87,
+    "TimeVSD" : 6.87,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.88,
+    "TimeVSD" : 6.88,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.9,
+    "TimeVSD" : 6.9,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.92,
+    "TimeVSD" : 6.92,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.93,
+    "TimeVSD" : 6.93,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.95,
+    "TimeVSD" : 6.95,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.97,
+    "TimeVSD" : 6.97,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 6.98,
+    "TimeVSD" : 6.98,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 7,
+    "TimeVSD" : 7,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 7,
+    "TimeVSD" : 7,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 7.02,
+    "TimeVSD" : 7.02,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 7.03,
+    "TimeVSD" : 7.03,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 7.05,
+    "TimeVSD" : 7.05,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 7.07,
+    "TimeVSD" : 7.07,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 7.08,
+    "TimeVSD" : 7.08,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : "-",
+    "LevelTankB" : "-",
+    "TimeLvl" : 7.09,
+    "TimeVSD" : 7.09,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 22.85,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 7.1,
+    "TimeVSD" : 7.1,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 49.8
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 21.41,
+    "TimeLvl" : 7.12,
+    "TimeVSD" : 7.12,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 24.57,
+    "TimeLvl" : 7.14,
+    "TimeVSD" : 7.14,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.08,
+    "LevelTankB" : 22.19,
+    "TimeLvl" : 7.15,
+    "TimeVSD" : 7.15,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 7.17,
+    "TimeVSD" : 7.17,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 20.23,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 7.19,
+    "TimeVSD" : 7.19,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 23.16,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 7.2,
+    "TimeVSD" : 7.2,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.49,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 7.22,
+    "TimeVSD" : 7.22,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 7.24,
+    "TimeVSD" : 7.24,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 21.88,
+    "TimeLvl" : 7.25,
+    "TimeVSD" : 7.25,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 25,
+    "TimeLvl" : 7.27,
+    "TimeVSD" : 7.27,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 56
+  }, {
+    "LevelTankA" : 15.94,
+    "LevelTankB" : 21.99,
+    "TimeLvl" : 7.29,
+    "TimeVSD" : 7.29,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 7.3,
+    "TimeVSD" : 7.3,
+    "VSDInFlow" : 35.2,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 20.82,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 7.32,
+    "TimeVSD" : 7.32,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 23.79,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 7.34,
+    "TimeVSD" : 7.34,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.98,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 7.35,
+    "TimeVSD" : 7.35,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 7.37,
+    "TimeVSD" : 7.37,
+    "VSDInFlow" : 35.4,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 22.73,
+    "TimeLvl" : 7.39,
+    "TimeVSD" : 7.39,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.29,
+    "LevelTankB" : 23.95,
+    "TimeLvl" : 7.4,
+    "TimeVSD" : 7.4,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53
+  }, {
+    "LevelTankA" : 15.27,
+    "LevelTankB" : 20.98,
+    "TimeLvl" : 7.42,
+    "TimeVSD" : 7.42,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.8
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 7.44,
+    "TimeVSD" : 7.44,
+    "VSDInFlow" : 34.2,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 21.6,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 7.45,
+    "TimeVSD" : 7.45,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 24.45,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 7.47,
+    "TimeVSD" : 7.47,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.48,
+    "LevelTankB" : 15.12,
+    "TimeLvl" : 7.49,
+    "TimeVSD" : 7.49,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.6
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 7.5,
+    "TimeVSD" : 7.5,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 22.85,
+    "TimeLvl" : 7.52,
+    "TimeVSD" : 7.52,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.37,
+    "LevelTankB" : 23.91,
+    "TimeLvl" : 7.54,
+    "TimeVSD" : 7.54,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.8
+  }, {
+    "LevelTankA" : 15.35,
+    "LevelTankB" : 20.94,
+    "TimeLvl" : 7.55,
+    "TimeVSD" : 7.55,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.8
+  }, {
+    "LevelTankA" : 15.04,
+    "LevelTankB" : 15.7,
+    "TimeLvl" : 7.57,
+    "TimeVSD" : 7.57,
+    "VSDInFlow" : 35,
+    "VSDOutFlow" : 38.4
+  }, {
+    "LevelTankA" : 21.41,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 7.59,
+    "TimeVSD" : 7.59,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 23.98,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 7.6,
+    "TimeVSD" : 7.6,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.83,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 7.62,
+    "TimeVSD" : 7.62,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.8
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 7.64,
+    "TimeVSD" : 7.64,
+    "VSDInFlow" : 34.6,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 22.77,
+    "TimeLvl" : 7.65,
+    "TimeVSD" : 7.65,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 23.91,
+    "TimeLvl" : 7.67,
+    "TimeVSD" : 7.67,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.8
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 20.98,
+    "TimeLvl" : 7.69,
+    "TimeVSD" : 7.69,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.8
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 7.7,
+    "TimeVSD" : 7.7,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 7.72,
+    "TimeVSD" : 7.72,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 25,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 7.74,
+    "TimeVSD" : 7.74,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.28,
+    "LevelTankB" : 14.53,
+    "TimeLvl" : 7.75,
+    "TimeVSD" : 7.75,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.8
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 20.94,
+    "TimeLvl" : 7.77,
+    "TimeVSD" : 7.77,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 24.06,
+    "TimeLvl" : 7.79,
+    "TimeVSD" : 7.79,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 20.35,
+    "LevelTankB" : 22.7,
+    "TimeLvl" : 7.8,
+    "TimeVSD" : 7.8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 14.65,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 7.82,
+    "TimeVSD" : 7.82,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 20.04,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 7.84,
+    "TimeVSD" : 7.84,
+    "VSDInFlow" : 33.8,
+    "VSDOutFlow" : 39.6
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 7.85,
+    "TimeVSD" : 7.85,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 24.61,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 7.87,
+    "TimeVSD" : 7.87,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 22.85,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 7.89,
+    "TimeVSD" : 7.89,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 49.8
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 21.45,
+    "TimeLvl" : 7.9,
+    "TimeVSD" : 7.9,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 7.92,
+    "TimeVSD" : 7.92,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 20,
+    "LevelTankB" : 22.11,
+    "TimeLvl" : 7.94,
+    "TimeVSD" : 7.94,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 7.95,
+    "TimeVSD" : 7.95,
+    "VSDInFlow" : 34.6,
+    "VSDOutFlow" : 38.8
+  }, {
+    "LevelTankA" : 20.7,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 7.97,
+    "TimeVSD" : 7.97,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 23.28,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 7.99,
+    "TimeVSD" : 7.99,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.57,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 8,
+    "TimeVSD" : 8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 24.38,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 8,
+    "TimeVSD" : 8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 14.57,
+    "TimeLvl" : 8.02,
+    "TimeVSD" : 8.02,
+    "VSDInFlow" : 38.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 21.99,
+    "TimeLvl" : 8.04,
+    "TimeVSD" : 8.04,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 24.73,
+    "TimeLvl" : 8.05,
+    "TimeVSD" : 8.05,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.8
+  }, {
+    "LevelTankA" : 15.9,
+    "LevelTankB" : 21.95,
+    "TimeLvl" : 8.07,
+    "TimeVSD" : 8.07,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 8.09,
+    "TimeVSD" : 8.09,
+    "VSDInFlow" : 35.2,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 20.86,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 8.1,
+    "TimeVSD" : 8.1,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 23.48,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 8.12,
+    "TimeVSD" : 8.12,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.02,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 8.14,
+    "TimeVSD" : 8.14,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 15.08,
+    "TimeLvl" : 8.15,
+    "TimeVSD" : 8.15,
+    "VSDInFlow" : 37,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 8.17,
+    "TimeVSD" : 8.17,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 21.41,
+    "LevelTankB" : 24.38,
+    "TimeLvl" : 8.19,
+    "TimeVSD" : 8.19,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54
+  }, {
+    "LevelTankA" : 15.35,
+    "LevelTankB" : 21.41,
+    "TimeLvl" : 8.2,
+    "TimeVSD" : 8.2,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44.8
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 8.22,
+    "TimeVSD" : 8.22,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 21.48,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 8.24,
+    "TimeVSD" : 8.24,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.06,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 8.25,
+    "TimeVSD" : 8.25,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 8.27,
+    "TimeVSD" : 8.27,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.6
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 8.29,
+    "TimeVSD" : 8.29,
+    "VSDInFlow" : 34.2,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 22.81,
+    "TimeLvl" : 8.3,
+    "TimeVSD" : 8.3,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 20.94,
+    "LevelTankB" : 23.87,
+    "TimeLvl" : 8.32,
+    "TimeVSD" : 8.32,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.6
+  }, {
+    "LevelTankA" : 15.16,
+    "LevelTankB" : 20.9,
+    "TimeLvl" : 8.34,
+    "TimeVSD" : 8.34,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.6
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 20,
+    "TimeLvl" : 8.35,
+    "TimeVSD" : 8.35,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 8.37,
+    "TimeVSD" : 8.37,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.61,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 8.39,
+    "TimeVSD" : 8.39,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.36,
+    "LevelTankB" : 15.04,
+    "TimeLvl" : 8.4,
+    "TimeVSD" : 8.4,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.2
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 8.42,
+    "TimeVSD" : 8.42,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 23.75,
+    "TimeLvl" : 8.44,
+    "TimeVSD" : 8.44,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 20.35,
+    "LevelTankB" : 23.16,
+    "TimeLvl" : 8.45,
+    "TimeVSD" : 8.45,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 50.2
+  }, {
+    "LevelTankA" : 14.65,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 8.47,
+    "TimeVSD" : 8.47,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 20,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 8.49,
+    "TimeVSD" : 8.49,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 8.5,
+    "TimeVSD" : 8.5,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 24.69,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 8.52,
+    "TimeVSD" : 8.52,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.13,
+    "LevelTankB" : 14.57,
+    "TimeLvl" : 8.54,
+    "TimeVSD" : 8.54,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 20.86,
+    "TimeLvl" : 8.55,
+    "TimeVSD" : 8.55,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 24.02,
+    "TimeLvl" : 8.57,
+    "TimeVSD" : 8.57,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 20.23,
+    "LevelTankB" : 22.7,
+    "TimeLvl" : 8.59,
+    "TimeVSD" : 8.59,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 14.57,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 8.6,
+    "TimeVSD" : 8.6,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 20.23,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 8.62,
+    "TimeVSD" : 8.62,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 23.16,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 8.64,
+    "TimeVSD" : 8.64,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 24.45,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 8.65,
+    "TimeVSD" : 8.65,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.6
+  }, {
+    "LevelTankA" : 22.73,
+    "LevelTankB" : 14.61,
+    "TimeLvl" : 8.67,
+    "TimeVSD" : 8.67,
+    "VSDInFlow" : 38.2,
+    "VSDOutFlow" : 49.2
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 21.91,
+    "TimeLvl" : 8.69,
+    "TimeVSD" : 8.69,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 24.69,
+    "TimeLvl" : 8.7,
+    "TimeVSD" : 8.7,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 20.12,
+    "LevelTankB" : 22.03,
+    "TimeLvl" : 8.72,
+    "TimeVSD" : 8.72,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 14.49,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 8.74,
+    "TimeVSD" : 8.74,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.6
+  }, {
+    "LevelTankA" : 20.31,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 8.75,
+    "TimeVSD" : 8.75,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 23.28,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 8.77,
+    "TimeVSD" : 8.77,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 24.38,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 8.79,
+    "TimeVSD" : 8.79,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.6
+  }, {
+    "LevelTankA" : 22.77,
+    "LevelTankB" : 15.16,
+    "TimeLvl" : 8.8,
+    "TimeVSD" : 8.8,
+    "VSDInFlow" : 36.6,
+    "VSDOutFlow" : 49.4
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 22.07,
+    "TimeLvl" : 8.82,
+    "TimeVSD" : 8.82,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 25,
+    "TimeLvl" : 8.84,
+    "TimeVSD" : 8.84,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 56
+  }, {
+    "LevelTankA" : 20.2,
+    "LevelTankB" : 21.95,
+    "TimeLvl" : 8.85,
+    "TimeVSD" : 8.85,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 14.61,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 8.87,
+    "TimeVSD" : 8.87,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 20.12,
+    "LevelTankB" : 15.7,
+    "TimeLvl" : 8.89,
+    "TimeVSD" : 8.89,
+    "VSDInFlow" : 35,
+    "VSDOutFlow" : 38.4
+  }, {
+    "LevelTankA" : 22.85,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 8.9,
+    "TimeVSD" : 8.9,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 24.49,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 8.92,
+    "TimeVSD" : 8.92,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.6
+  }, {
+    "LevelTankA" : 22.77,
+    "LevelTankB" : 14.61,
+    "TimeLvl" : 8.94,
+    "TimeVSD" : 8.94,
+    "VSDInFlow" : 38.2,
+    "VSDOutFlow" : 49.4
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 21.99,
+    "TimeLvl" : 8.95,
+    "TimeVSD" : 8.95,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 8.97,
+    "TimeVSD" : 8.97,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.4
+  }, {
+    "LevelTankA" : 15.98,
+    "LevelTankB" : 21.6,
+    "TimeLvl" : 8.99,
+    "TimeVSD" : 8.99,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.8
+  }, {
+    "LevelTankA" : 14.49,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 9,
+    "TimeVSD" : 9,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.8
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 9,
+    "TimeVSD" : 9,
+    "VSDInFlow" : 35.8,
+    "VSDOutFlow" : 37.6
+  }, {
+    "LevelTankA" : 20.78,
+    "LevelTankB" : 20,
+    "TimeLvl" : 9.02,
+    "TimeVSD" : 9.02,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 23.44,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 9.04,
+    "TimeVSD" : 9.04,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.06,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 9.05,
+    "TimeVSD" : 9.05,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.6
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 15.23,
+    "TimeLvl" : 9.07,
+    "TimeVSD" : 9.07,
+    "VSDInFlow" : 36.2,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 22.58,
+    "TimeLvl" : 9.09,
+    "TimeVSD" : 9.09,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.37,
+    "LevelTankB" : 24.02,
+    "TimeLvl" : 9.1,
+    "TimeVSD" : 9.1,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53.4
+  }, {
+    "LevelTankA" : 15.35,
+    "LevelTankB" : 21.29,
+    "TimeLvl" : 9.12,
+    "TimeVSD" : 9.12,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44.2
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 9.14,
+    "TimeVSD" : 9.14,
+    "VSDInFlow" : 34.8,
+    "VSDOutFlow" : 38.6
+  }, {
+    "LevelTankA" : 21.56,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 9.15,
+    "TimeVSD" : 9.15,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 24.45,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 9.17,
+    "TimeVSD" : 9.17,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.48,
+    "LevelTankB" : 15.04,
+    "TimeLvl" : 9.19,
+    "TimeVSD" : 9.19,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.2
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 9.2,
+    "TimeVSD" : 9.2,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 23.2,
+    "TimeLvl" : 9.22,
+    "TimeVSD" : 9.22,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.41,
+    "LevelTankB" : 23.83,
+    "TimeLvl" : 9.24,
+    "TimeVSD" : 9.24,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.4
+  }, {
+    "LevelTankA" : 15.66,
+    "LevelTankB" : 20.86,
+    "TimeLvl" : 9.25,
+    "TimeVSD" : 9.25,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.2
+  }, {
+    "LevelTankA" : 15.04,
+    "LevelTankB" : 15.23,
+    "TimeLvl" : 9.27,
+    "TimeVSD" : 9.27,
+    "VSDInFlow" : 36.2,
+    "VSDOutFlow" : 37.2
+  }, {
+    "LevelTankA" : 21.56,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 9.29,
+    "TimeVSD" : 9.29,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 24.53,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 9.3,
+    "TimeVSD" : 9.3,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 23.44,
+    "LevelTankB" : 14.65,
+    "TimeLvl" : 9.32,
+    "TimeVSD" : 9.32,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35.4
+  }, {
+    "LevelTankA" : 23.2,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 9.34,
+    "TimeVSD" : 9.34,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 50.4
+  }, {
+    "LevelTankA" : 23.13,
+    "LevelTankB" : 22.7,
+    "TimeLvl" : 9.35,
+    "TimeVSD" : 9.35,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 50
+  }, {
+    "LevelTankA" : 22.73,
+    "LevelTankB" : 24.57,
+    "TimeLvl" : 9.37,
+    "TimeVSD" : 9.37,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55
+  }, {
+    "LevelTankA" : 20.66,
+    "LevelTankB" : 21.56,
+    "TimeLvl" : 9.39,
+    "TimeVSD" : 9.39,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.6
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 15.27,
+    "TimeLvl" : 9.4,
+    "TimeVSD" : 9.4,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.4
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 9.42,
+    "TimeVSD" : 9.42,
+    "VSDInFlow" : 36,
+    "VSDOutFlow" : 34.2
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 9.44,
+    "TimeVSD" : 9.44,
+    "VSDInFlow" : 36,
+    "VSDOutFlow" : 34.2
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 9.45,
+    "TimeVSD" : 9.45,
+    "VSDInFlow" : 36,
+    "VSDOutFlow" : 34.2
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 9.47,
+    "TimeVSD" : 9.47,
+    "VSDInFlow" : 36,
+    "VSDOutFlow" : 34.2
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 9.49,
+    "TimeVSD" : 9.49,
+    "VSDInFlow" : 36,
+    "VSDOutFlow" : 34.2
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 9.5,
+    "TimeVSD" : 9.5,
+    "VSDInFlow" : 36,
+    "VSDOutFlow" : 34.2
+  }, {
+    "LevelTankA" : "-",
+    "LevelTankB" : "-",
+    "TimeLvl" : 9.5,
+    "TimeVSD" : 9.5,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 20.16,
+    "LevelTankB" : 22.62,
+    "TimeLvl" : 9.52,
+    "TimeVSD" : 9.52,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 20,
+    "LevelTankB" : 24.1,
+    "TimeLvl" : 9.54,
+    "TimeVSD" : 9.54,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53.8
+  }, {
+    "LevelTankA" : 14.57,
+    "LevelTankB" : 21.41,
+    "TimeLvl" : 9.55,
+    "TimeVSD" : 9.55,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 44.8
+  }, {
+    "LevelTankA" : 20.9,
+    "LevelTankB" : 21.25,
+    "TimeLvl" : 9.57,
+    "TimeVSD" : 9.57,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 44
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 20.9,
+    "TimeLvl" : 9.59,
+    "TimeVSD" : 9.59,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 43.4
+  }, {
+    "LevelTankA" : 23.98,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 9.6,
+    "TimeVSD" : 9.6,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 14.73,
+    "TimeLvl" : 9.62,
+    "TimeVSD" : 9.62,
+    "VSDInFlow" : 37.6,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 22.07,
+    "TimeLvl" : 9.64,
+    "TimeVSD" : 9.64,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 24.69,
+    "TimeLvl" : 9.65,
+    "TimeVSD" : 9.65,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.6
+  }, {
+    "LevelTankA" : 15.94,
+    "LevelTankB" : 21.88,
+    "TimeLvl" : 9.67,
+    "TimeVSD" : 9.67,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46
+  }, {
+    "LevelTankA" : 14.41,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 9.69,
+    "TimeVSD" : 9.69,
+    "VSDInFlow" : 35.8,
+    "VSDOutFlow" : 37.6
+  }, {
+    "LevelTankA" : 20.82,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 9.7,
+    "TimeVSD" : 9.7,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 23.48,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 9.72,
+    "TimeVSD" : 9.72,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 24.02,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 9.74,
+    "TimeVSD" : 9.74,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 15.08,
+    "TimeLvl" : 9.75,
+    "TimeVSD" : 9.75,
+    "VSDInFlow" : 37,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 22.19,
+    "TimeLvl" : 9.77,
+    "TimeVSD" : 9.77,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.88,
+    "LevelTankB" : 24.49,
+    "TimeLvl" : 9.79,
+    "TimeVSD" : 9.79,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54.6
+  }, {
+    "LevelTankA" : 15.82,
+    "LevelTankB" : 21.48,
+    "TimeLvl" : 9.8,
+    "TimeVSD" : 9.8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.2
+  }, {
+    "LevelTankA" : 14.53,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 9.82,
+    "TimeVSD" : 9.82,
+    "VSDInFlow" : 35.8,
+    "VSDOutFlow" : 37.6
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 9.84,
+    "TimeVSD" : 9.84,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 23.91,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 9.85,
+    "TimeVSD" : 9.85,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 23.91,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 9.87,
+    "TimeVSD" : 9.87,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 9.89,
+    "TimeVSD" : 9.89,
+    "VSDInFlow" : 35.2,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 22.58,
+    "TimeLvl" : 9.9,
+    "TimeVSD" : 9.9,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 24.38,
+    "TimeLvl" : 9.92,
+    "TimeVSD" : 9.92,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54
+  }, {
+    "LevelTankA" : 15.86,
+    "LevelTankB" : 21.41,
+    "TimeLvl" : 9.94,
+    "TimeVSD" : 9.94,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44.8
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.12,
+    "TimeLvl" : 9.95,
+    "TimeVSD" : 9.95,
+    "VSDInFlow" : 36.8,
+    "VSDOutFlow" : 36.6
+  }, {
+    "LevelTankA" : 20.78,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 9.97,
+    "TimeVSD" : 9.97,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 23.4,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 9.99,
+    "TimeVSD" : 9.99,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.49,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 10,
+    "TimeVSD" : 10,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 24.1,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 10,
+    "TimeVSD" : 10,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.6
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 14.65,
+    "TimeLvl" : 10.02,
+    "TimeVSD" : 10.02,
+    "VSDInFlow" : 38,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 22.03,
+    "TimeLvl" : 10.04,
+    "TimeVSD" : 10.04,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 10.05,
+    "TimeVSD" : 10.05,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.4
+  }, {
+    "LevelTankA" : 15.9,
+    "LevelTankB" : 21.88,
+    "TimeLvl" : 10.07,
+    "TimeVSD" : 10.07,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46
+  }, {
+    "LevelTankA" : 14.41,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 10.09,
+    "TimeVSD" : 10.09,
+    "VSDInFlow" : 35.8,
+    "VSDOutFlow" : 37.6
+  }, {
+    "LevelTankA" : 20.86,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 10.1,
+    "TimeVSD" : 10.1,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 10.12,
+    "TimeVSD" : 10.12,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 23.98,
+    "LevelTankB" : 15.7,
+    "TimeLvl" : 10.14,
+    "TimeVSD" : 10.14,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.4
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 10.15,
+    "TimeVSD" : 10.15,
+    "VSDInFlow" : 35.6,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 22.7,
+    "TimeLvl" : 10.17,
+    "TimeVSD" : 10.17,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.41,
+    "LevelTankB" : 23.95,
+    "TimeLvl" : 10.19,
+    "TimeVSD" : 10.19,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 21.25,
+    "TimeLvl" : 10.2,
+    "TimeVSD" : 10.2,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44
+  }, {
+    "LevelTankA" : 14.69,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 10.22,
+    "TimeVSD" : 10.22,
+    "VSDInFlow" : 35.6,
+    "VSDOutFlow" : 37.8
+  }, {
+    "LevelTankA" : 21.33,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 10.24,
+    "TimeVSD" : 10.24,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 23.95,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 10.25,
+    "TimeVSD" : 10.25,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.87,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 10.27,
+    "TimeVSD" : 10.27,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 15.7,
+    "TimeLvl" : 10.29,
+    "TimeVSD" : 10.29,
+    "VSDInFlow" : 35,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 22.73,
+    "TimeLvl" : 10.3,
+    "TimeVSD" : 10.3,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.41,
+    "LevelTankB" : 23.95,
+    "TimeLvl" : 10.32,
+    "TimeVSD" : 10.32,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 20.98,
+    "TimeLvl" : 10.34,
+    "TimeVSD" : 10.34,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.8
+  }, {
+    "LevelTankA" : 14.53,
+    "LevelTankB" : 15.23,
+    "TimeLvl" : 10.35,
+    "TimeVSD" : 10.35,
+    "VSDInFlow" : 36.2,
+    "VSDOutFlow" : 37.2
+  }, {
+    "LevelTankA" : 20.94,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 10.37,
+    "TimeVSD" : 10.37,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 10.39,
+    "TimeVSD" : 10.39,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.98,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 10.4,
+    "TimeVSD" : 10.4,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 15.12,
+    "TimeLvl" : 10.42,
+    "TimeVSD" : 10.42,
+    "VSDInFlow" : 36.8,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 10.44,
+    "TimeVSD" : 10.44,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.88,
+    "LevelTankB" : 24.45,
+    "TimeLvl" : 10.45,
+    "TimeVSD" : 10.45,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54.2
+  }, {
+    "LevelTankA" : 15.82,
+    "LevelTankB" : 21.45,
+    "TimeLvl" : 10.47,
+    "TimeVSD" : 10.47,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.16,
+    "TimeLvl" : 10.49,
+    "TimeVSD" : 10.49,
+    "VSDInFlow" : 36.6,
+    "VSDOutFlow" : 36.8
+  }, {
+    "LevelTankA" : 21.33,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 10.5,
+    "TimeVSD" : 10.5,
+    "VSDInFlow" : 35.4,
+    "VSDOutFlow" : 38
+  }, {
+    "LevelTankA" : 24.69,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 10.52,
+    "TimeVSD" : 10.52,
+    "VSDInFlow" : 34.4,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 23.4,
+    "LevelTankB" : 14.65,
+    "TimeLvl" : 10.54,
+    "TimeVSD" : 10.54,
+    "VSDInFlow" : 38,
+    "VSDOutFlow" : 51.4
+  }, {
+    "LevelTankA" : 23.16,
+    "LevelTankB" : 22.03,
+    "TimeLvl" : 10.55,
+    "TimeVSD" : 10.55,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 50.2
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 24.69,
+    "TimeLvl" : 10.57,
+    "TimeVSD" : 10.57,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.6
+  }, {
+    "LevelTankA" : 20.35,
+    "LevelTankB" : 21.88,
+    "TimeLvl" : 10.59,
+    "TimeVSD" : 10.59,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46
+  }, {
+    "LevelTankA" : 14.73,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 10.6,
+    "TimeVSD" : 10.6,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38
+  }, {
+    "LevelTankA" : 15.35,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 10.62,
+    "TimeVSD" : 10.62,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 34.2
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 23.13,
+    "TimeLvl" : 10.64,
+    "TimeVSD" : 10.64,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 34.2
+  }, {
+    "LevelTankA" : 24.57,
+    "LevelTankB" : 24.53,
+    "TimeLvl" : 10.65,
+    "TimeVSD" : 10.65,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 54.8
+  }, {
+    "LevelTankA" : 22.85,
+    "LevelTankB" : 21.95,
+    "TimeLvl" : 10.67,
+    "TimeVSD" : 10.67,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 10.69,
+    "TimeVSD" : 10.69,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38
+  }, {
+    "LevelTankA" : 20.23,
+    "LevelTankB" : 15.27,
+    "TimeLvl" : 10.7,
+    "TimeVSD" : 10.7,
+    "VSDInFlow" : 35.8,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 20.74,
+    "LevelTankB" : 22.03,
+    "TimeLvl" : 10.72,
+    "TimeVSD" : 10.72,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 42.6
+  }, {
+    "LevelTankA" : 20.86,
+    "LevelTankB" : 24.61,
+    "TimeLvl" : 10.74,
+    "TimeVSD" : 10.74,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 43.2
+  }, {
+    "LevelTankA" : 15.23,
+    "LevelTankB" : 22.15,
+    "TimeLvl" : 10.75,
+    "TimeVSD" : 10.75,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 15.04,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 10.77,
+    "TimeVSD" : 10.77,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 21.45,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 10.79,
+    "TimeVSD" : 10.79,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 24.06,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 10.8,
+    "TimeVSD" : 10.8,
+    "VSDInFlow" : 30.8,
+    "VSDOutFlow" : 42.6
+  }, {
+    "LevelTankA" : 23.79,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 10.82,
+    "TimeVSD" : 10.82,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.6
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 10.84,
+    "TimeVSD" : 10.84,
+    "VSDInFlow" : 34.2,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 22.85,
+    "TimeLvl" : 10.85,
+    "TimeVSD" : 10.85,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 21.29,
+    "LevelTankB" : 23.87,
+    "TimeLvl" : 10.87,
+    "TimeVSD" : 10.87,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.6
+  }, {
+    "LevelTankA" : 15.23,
+    "LevelTankB" : 20.9,
+    "TimeLvl" : 10.89,
+    "TimeVSD" : 10.89,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.4
+  }, {
+    "LevelTankA" : 15.04,
+    "LevelTankB" : 15.66,
+    "TimeLvl" : 10.9,
+    "TimeVSD" : 10.9,
+    "VSDInFlow" : 35.2,
+    "VSDOutFlow" : 38.2
+  }, {
+    "LevelTankA" : 21.52,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 10.92,
+    "TimeVSD" : 10.92,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 24.45,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 10.94,
+    "TimeVSD" : 10.94,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 15.08,
+    "TimeLvl" : 10.95,
+    "TimeVSD" : 10.95,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.4
+  }, {
+    "LevelTankA" : 22.73,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 10.97,
+    "TimeVSD" : 10.97,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 49.2
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 23.32,
+    "TimeLvl" : 10.99,
+    "TimeVSD" : 10.99,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.48,
+    "LevelTankB" : 23.87,
+    "TimeLvl" : 11,
+    "TimeVSD" : 11,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.8
+  }, {
+    "LevelTankA" : 21.33,
+    "LevelTankB" : 23.4,
+    "TimeLvl" : 11,
+    "TimeVSD" : 11,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51.4
+  }, {
+    "LevelTankA" : 15.31,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 11.02,
+    "TimeVSD" : 11.02,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 15,
+    "LevelTankB" : 15.16,
+    "TimeLvl" : 11.04,
+    "TimeVSD" : 11.04,
+    "VSDInFlow" : 36.6,
+    "VSDOutFlow" : 36.8
+  }, {
+    "LevelTankA" : 21.41,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 11.05,
+    "TimeVSD" : 11.05,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 24.06,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 11.07,
+    "TimeVSD" : 11.07,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 23.79,
+    "LevelTankB" : 15.23,
+    "TimeLvl" : 11.09,
+    "TimeVSD" : 11.09,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.2
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 20,
+    "TimeLvl" : 11.1,
+    "TimeVSD" : 11.1,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 23.2,
+    "TimeLvl" : 11.12,
+    "TimeVSD" : 11.12,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 23.48,
+    "TimeLvl" : 11.14,
+    "TimeVSD" : 11.14,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51.8
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 20.78,
+    "TimeLvl" : 11.15,
+    "TimeVSD" : 11.15,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.8
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 11.17,
+    "TimeVSD" : 11.17,
+    "VSDInFlow" : 34.8,
+    "VSDOutFlow" : 38.6
+  }, {
+    "LevelTankA" : 21.6,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 11.19,
+    "TimeVSD" : 11.19,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 24.45,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 11.2,
+    "TimeVSD" : 11.2,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.48,
+    "LevelTankB" : 15.2,
+    "TimeLvl" : 11.22,
+    "TimeVSD" : 11.22,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 11.24,
+    "TimeVSD" : 11.24,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 23.28,
+    "TimeLvl" : 11.25,
+    "TimeVSD" : 11.25,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 20.9,
+    "LevelTankB" : 23.4,
+    "TimeLvl" : 11.27,
+    "TimeVSD" : 11.27,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51.6
+  }, {
+    "LevelTankA" : 15.16,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 11.29,
+    "TimeVSD" : 11.29,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 15.31,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 11.3,
+    "TimeVSD" : 11.3,
+    "VSDInFlow" : 34.4,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 11.32,
+    "TimeVSD" : 11.32,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 24.57,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 11.34,
+    "TimeVSD" : 11.34,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.4,
+    "LevelTankB" : 15.08,
+    "TimeLvl" : 11.35,
+    "TimeVSD" : 11.35,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.4
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 11.37,
+    "TimeVSD" : 11.37,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 23.83,
+    "TimeLvl" : 11.39,
+    "TimeVSD" : 11.39,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.35,
+    "LevelTankB" : 22.85,
+    "TimeLvl" : 11.4,
+    "TimeVSD" : 11.4,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 49.8
+  }, {
+    "LevelTankA" : 14.73,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 11.42,
+    "TimeVSD" : 11.42,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 20.04,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 11.44,
+    "TimeVSD" : 11.44,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 11.45,
+    "TimeVSD" : 11.45,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.65,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 11.47,
+    "TimeVSD" : 11.47,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 22.85,
+    "LevelTankB" : 14.49,
+    "TimeLvl" : 11.49,
+    "TimeVSD" : 11.49,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.6
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 21.29,
+    "TimeLvl" : 11.5,
+    "TimeVSD" : 11.5,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 24.53,
+    "TimeLvl" : 11.52,
+    "TimeVSD" : 11.52,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 20.08,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 11.54,
+    "TimeVSD" : 11.54,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 14.41,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 11.55,
+    "TimeVSD" : 11.55,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 20.63,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 11.57,
+    "TimeVSD" : 11.57,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 23.24,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 11.59,
+    "TimeVSD" : 11.59,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 24.41,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 11.6,
+    "TimeVSD" : 11.6,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 14.45,
+    "TimeLvl" : 11.62,
+    "TimeVSD" : 11.62,
+    "VSDInFlow" : 39,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 21.95,
+    "TimeLvl" : 11.64,
+    "TimeVSD" : 11.64,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 11.65,
+    "TimeVSD" : 11.65,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.6
+  }, {
+    "LevelTankA" : 15.82,
+    "LevelTankB" : 21.88,
+    "TimeLvl" : 11.67,
+    "TimeVSD" : 11.67,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46
+  }, {
+    "LevelTankA" : 14.73,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 11.69,
+    "TimeVSD" : 11.69,
+    "VSDInFlow" : 34.8,
+    "VSDOutFlow" : 38.6
+  }, {
+    "LevelTankA" : 21.29,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 11.7,
+    "TimeVSD" : 11.7,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 23.87,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 11.72,
+    "TimeVSD" : 11.72,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.91,
+    "LevelTankB" : 15.7,
+    "TimeLvl" : 11.74,
+    "TimeVSD" : 11.74,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.4
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 11.75,
+    "TimeVSD" : 11.75,
+    "VSDInFlow" : 35.4,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 22.7,
+    "TimeLvl" : 11.77,
+    "TimeVSD" : 11.77,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 23.95,
+    "TimeLvl" : 11.79,
+    "TimeVSD" : 11.79,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53
+  }, {
+    "LevelTankA" : 15.23,
+    "LevelTankB" : 20.94,
+    "TimeLvl" : 11.8,
+    "TimeVSD" : 11.8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.6
+  }, {
+    "LevelTankA" : 15.74,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 11.82,
+    "TimeVSD" : 11.82,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 11.84,
+    "TimeVSD" : 11.84,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 11.85,
+    "TimeVSD" : 11.85,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : "-",
+    "LevelTankB" : "-",
+    "TimeLvl" : 11.85,
+    "TimeVSD" : 11.85,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 23.2,
+    "LevelTankB" : 14.57,
+    "TimeLvl" : 11.87,
+    "TimeVSD" : 11.87,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 20.94,
+    "TimeLvl" : 11.89,
+    "TimeVSD" : 11.89,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 24.1,
+    "TimeLvl" : 11.9,
+    "TimeVSD" : 11.9,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.2
+  }, {
+    "LevelTankA" : 20.04,
+    "LevelTankB" : 22.58,
+    "TimeLvl" : 11.92,
+    "TimeVSD" : 11.92,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 11.94,
+    "TimeVSD" : 11.94,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 20.9,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 11.95,
+    "TimeVSD" : 11.95,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 23.83,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 11.97,
+    "TimeVSD" : 11.97,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 23.95,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 11.99,
+    "TimeVSD" : 11.99,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.6
+  }, {
+    "LevelTankA" : 22.77,
+    "LevelTankB" : 15.12,
+    "TimeLvl" : 12,
+    "TimeVSD" : 12,
+    "VSDInFlow" : 36.8,
+    "VSDOutFlow" : 49.4
+  }, {
+    "LevelTankA" : 22.73,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 12,
+    "TimeVSD" : 12,
+    "VSDInFlow" : 34.2,
+    "VSDOutFlow" : 49.2
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 22.73,
+    "TimeLvl" : 12.02,
+    "TimeVSD" : 12.02,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.52,
+    "LevelTankB" : 23.98,
+    "TimeLvl" : 12.04,
+    "TimeVSD" : 12.04,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53.2
+  }, {
+    "LevelTankA" : 15.78,
+    "LevelTankB" : 20.98,
+    "TimeLvl" : 12.05,
+    "TimeVSD" : 12.05,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.8
+  }, {
+    "LevelTankA" : 15.27,
+    "LevelTankB" : 15.7,
+    "TimeLvl" : 12.07,
+    "TimeVSD" : 12.07,
+    "VSDInFlow" : 35,
+    "VSDOutFlow" : 38.4
+  }, {
+    "LevelTankA" : 21.56,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 12.09,
+    "TimeVSD" : 12.09,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 24.41,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 12.1,
+    "TimeVSD" : 12.1,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.48,
+    "LevelTankB" : 15.16,
+    "TimeLvl" : 12.12,
+    "TimeVSD" : 12.12,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.8
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 12.14,
+    "TimeVSD" : 12.14,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 23.36,
+    "TimeLvl" : 12.15,
+    "TimeVSD" : 12.15,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 20.7,
+    "LevelTankB" : 23.32,
+    "TimeLvl" : 12.17,
+    "TimeVSD" : 12.17,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51
+  }, {
+    "LevelTankA" : 14.65,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 12.19,
+    "TimeVSD" : 12.19,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 20.12,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 12.2,
+    "TimeVSD" : 12.2,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 12.22,
+    "TimeVSD" : 12.22,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.65,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 12.24,
+    "TimeVSD" : 12.24,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 22.81,
+    "LevelTankB" : 14.41,
+    "TimeLvl" : 12.25,
+    "TimeVSD" : 12.25,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.2
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 21.33,
+    "TimeLvl" : 12.27,
+    "TimeVSD" : 12.27,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 24.41,
+    "TimeLvl" : 12.29,
+    "TimeVSD" : 12.29,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.12,
+    "LevelTankB" : 22.54,
+    "TimeLvl" : 12.3,
+    "TimeVSD" : 12.3,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 12.32,
+    "TimeVSD" : 12.32,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 20.78,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 12.34,
+    "TimeVSD" : 12.34,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 23.4,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 12.35,
+    "TimeVSD" : 12.35,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.06,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 12.37,
+    "TimeVSD" : 12.37,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 15.16,
+    "TimeLvl" : 12.39,
+    "TimeVSD" : 12.39,
+    "VSDInFlow" : 36.6,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 22.58,
+    "TimeLvl" : 12.4,
+    "TimeVSD" : 12.4,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 21.25,
+    "LevelTankB" : 24.02,
+    "TimeLvl" : 12.42,
+    "TimeVSD" : 12.42,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53.4
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 21.25,
+    "TimeLvl" : 12.44,
+    "TimeVSD" : 12.44,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44
+  }, {
+    "LevelTankA" : 15.98,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 12.45,
+    "TimeVSD" : 12.45,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 12.47,
+    "TimeVSD" : 12.47,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 25,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 12.49,
+    "TimeVSD" : 12.49,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 23.16,
+    "LevelTankB" : 14.49,
+    "TimeLvl" : 12.5,
+    "TimeVSD" : 12.5,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.6
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 21.25,
+    "TimeLvl" : 12.52,
+    "TimeVSD" : 12.52,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 24.41,
+    "TimeLvl" : 12.54,
+    "TimeVSD" : 12.54,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.2,
+    "LevelTankB" : 22.54,
+    "TimeLvl" : 12.55,
+    "TimeVSD" : 12.55,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 12.57,
+    "TimeVSD" : 12.57,
+    "VSDInFlow" : 34.2,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 20.9,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 12.59,
+    "TimeVSD" : 12.59,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 23.79,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 12.6,
+    "TimeVSD" : 12.6,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 23.98,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 12.62,
+    "TimeVSD" : 12.62,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.8
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 12.64,
+    "TimeVSD" : 12.64,
+    "VSDInFlow" : 34.2,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 22.81,
+    "TimeLvl" : 12.65,
+    "TimeVSD" : 12.65,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.25,
+    "LevelTankB" : 23.83,
+    "TimeLvl" : 12.67,
+    "TimeVSD" : 12.67,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.4
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 20.86,
+    "TimeLvl" : 12.69,
+    "TimeVSD" : 12.69,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43.2
+  }, {
+    "LevelTankA" : 15.94,
+    "LevelTankB" : 20,
+    "TimeLvl" : 12.7,
+    "TimeVSD" : 12.7,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 12.72,
+    "TimeVSD" : 12.72,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 24.73,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 12.74,
+    "TimeVSD" : 12.74,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 23.16,
+    "LevelTankB" : 14.41,
+    "TimeLvl" : 12.75,
+    "TimeVSD" : 12.75,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 50
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 21.48,
+    "TimeLvl" : 12.77,
+    "TimeVSD" : 12.77,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 24.73,
+    "TimeLvl" : 12.79,
+    "TimeVSD" : 12.79,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.2
+  }, {
+    "LevelTankA" : 15.94,
+    "LevelTankB" : 22.03,
+    "TimeLvl" : 12.8,
+    "TimeVSD" : 12.8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 14.65,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 12.82,
+    "TimeVSD" : 12.82,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 21.41,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 12.84,
+    "TimeVSD" : 12.84,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 24.02,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 12.85,
+    "TimeVSD" : 12.85,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 23.79,
+    "LevelTankB" : 15.23,
+    "TimeLvl" : 12.87,
+    "TimeVSD" : 12.87,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.2
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 12.89,
+    "TimeVSD" : 12.89,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 23.32,
+    "TimeLvl" : 12.9,
+    "TimeVSD" : 12.9,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 20.7,
+    "LevelTankB" : 23.32,
+    "TimeLvl" : 12.92,
+    "TimeVSD" : 12.92,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51
+  }, {
+    "LevelTankA" : 14.57,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 12.94,
+    "TimeVSD" : 12.94,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 20.35,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 12.95,
+    "TimeVSD" : 12.95,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 22.85,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 12.97,
+    "TimeVSD" : 12.97,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.53,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 12.99,
+    "TimeVSD" : 12.99,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 23.2,
+    "LevelTankB" : 14.57,
+    "TimeLvl" : 13,
+    "TimeVSD" : 13,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.8
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 13,
+    "TimeVSD" : 13,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 21.88,
+    "TimeLvl" : 13.02,
+    "TimeVSD" : 13.02,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 25,
+    "TimeLvl" : 13.04,
+    "TimeVSD" : 13.04,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 56
+  }, {
+    "LevelTankA" : 15.82,
+    "LevelTankB" : 21.91,
+    "TimeLvl" : 13.05,
+    "TimeVSD" : 13.05,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.2
+  }, {
+    "LevelTankA" : 14.73,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 13.07,
+    "TimeVSD" : 13.07,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 21.45,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 13.09,
+    "TimeVSD" : 13.09,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 24.02,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 13.1,
+    "TimeVSD" : 13.1,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 23.83,
+    "LevelTankB" : 15.23,
+    "TimeLvl" : 13.12,
+    "TimeVSD" : 13.12,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.2
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 13.14,
+    "TimeVSD" : 13.14,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 23.16,
+    "TimeLvl" : 13.15,
+    "TimeVSD" : 13.15,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 23.48,
+    "TimeLvl" : 13.17,
+    "TimeVSD" : 13.17,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51.8
+  }, {
+    "LevelTankA" : 15.08,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 13.19,
+    "TimeVSD" : 13.19,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.6
+  }, {
+    "LevelTankA" : 15.86,
+    "LevelTankB" : 20,
+    "TimeLvl" : 13.2,
+    "TimeVSD" : 13.2,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 13.22,
+    "TimeVSD" : 13.22,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 25,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 13.24,
+    "TimeVSD" : 13.24,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.2,
+    "LevelTankB" : 14.53,
+    "TimeLvl" : 13.25,
+    "TimeVSD" : 13.25,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.8
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 20.94,
+    "TimeLvl" : 13.27,
+    "TimeVSD" : 13.27,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 24.06,
+    "TimeLvl" : 13.29,
+    "TimeVSD" : 13.29,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.27,
+    "LevelTankB" : 22.62,
+    "TimeLvl" : 13.3,
+    "TimeVSD" : 13.3,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 13.32,
+    "TimeVSD" : 13.32,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 20.78,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 13.34,
+    "TimeVSD" : 13.34,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 23.36,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 13.35,
+    "TimeVSD" : 13.35,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.1,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 13.37,
+    "TimeVSD" : 13.37,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 15.12,
+    "TimeLvl" : 13.39,
+    "TimeVSD" : 13.39,
+    "VSDInFlow" : 37,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 13.4,
+    "TimeVSD" : 13.4,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.45,
+    "LevelTankB" : 24.38,
+    "TimeLvl" : 13.42,
+    "TimeVSD" : 13.42,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54
+  }, {
+    "LevelTankA" : 15.27,
+    "LevelTankB" : 21.37,
+    "TimeLvl" : 13.44,
+    "TimeVSD" : 13.44,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44.6
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 13.45,
+    "TimeVSD" : 13.45,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 13.47,
+    "TimeVSD" : 13.47,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.69,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 13.49,
+    "TimeVSD" : 13.49,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.32,
+    "LevelTankB" : 14.69,
+    "TimeLvl" : 13.5,
+    "TimeVSD" : 13.5,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35.4
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 20.82,
+    "TimeLvl" : 13.52,
+    "TimeVSD" : 13.52,
+    "VSDInFlow" : 30.4,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 23.98,
+    "TimeLvl" : 13.54,
+    "TimeVSD" : 13.54,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.27,
+    "LevelTankB" : 22.7,
+    "TimeLvl" : 13.55,
+    "TimeVSD" : 13.55,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 20,
+    "TimeLvl" : 13.57,
+    "TimeVSD" : 13.57,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 20.78,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 13.59,
+    "TimeVSD" : 13.59,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 23.4,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 13.6,
+    "TimeVSD" : 13.6,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.1,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 13.62,
+    "TimeVSD" : 13.62,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.4
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 15.04,
+    "TimeLvl" : 13.64,
+    "TimeVSD" : 13.64,
+    "VSDInFlow" : 37.2,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 22.11,
+    "TimeLvl" : 13.65,
+    "TimeVSD" : 13.65,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 24.61,
+    "TimeLvl" : 13.67,
+    "TimeVSD" : 13.67,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.2
+  }, {
+    "LevelTankA" : 15.74,
+    "LevelTankB" : 21.52,
+    "TimeLvl" : 13.69,
+    "TimeVSD" : 13.69,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.4
+  }, {
+    "LevelTankA" : 15.08,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 13.7,
+    "TimeVSD" : 13.7,
+    "VSDInFlow" : 34.4,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 13.72,
+    "TimeVSD" : 13.72,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 24.73,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 13.74,
+    "TimeVSD" : 13.74,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 23.32,
+    "LevelTankB" : 14.45,
+    "TimeLvl" : 13.75,
+    "TimeVSD" : 13.75,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.4
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 21.33,
+    "TimeLvl" : 13.77,
+    "TimeVSD" : 13.77,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 24.45,
+    "TimeLvl" : 13.79,
+    "TimeVSD" : 13.79,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 20.31,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 13.8,
+    "TimeVSD" : 13.8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 13.82,
+    "TimeVSD" : 13.82,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 20.74,
+    "LevelTankB" : 20,
+    "TimeLvl" : 13.84,
+    "TimeVSD" : 13.84,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 23.44,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 13.85,
+    "TimeVSD" : 13.85,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 24.02,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 13.87,
+    "TimeVSD" : 13.87,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38
+  }, {
+    "LevelTankA" : 22.73,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 13.89,
+    "TimeVSD" : 13.89,
+    "VSDInFlow" : 34.6,
+    "VSDOutFlow" : 49.2
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 22.81,
+    "TimeLvl" : 13.9,
+    "TimeVSD" : 13.9,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.29,
+    "LevelTankB" : 23.83,
+    "TimeLvl" : 13.92,
+    "TimeVSD" : 13.92,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.4
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 20.86,
+    "TimeLvl" : 13.94,
+    "TimeVSD" : 13.94,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43
+  }, {
+    "LevelTankA" : 15.9,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 13.95,
+    "TimeVSD" : 13.95,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 13.97,
+    "TimeVSD" : 13.97,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 25,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 13.99,
+    "TimeVSD" : 13.99,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 15.16,
+    "TimeLvl" : 14,
+    "TimeVSD" : 14,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.8
+  }, {
+    "LevelTankA" : 23.28,
+    "LevelTankB" : 14.61,
+    "TimeLvl" : 14,
+    "TimeVSD" : 14,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35.2
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 20.9,
+    "TimeLvl" : 14.02,
+    "TimeVSD" : 14.02,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 24.06,
+    "TimeLvl" : 14.04,
+    "TimeVSD" : 14.04,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.16,
+    "LevelTankB" : 22.62,
+    "TimeLvl" : 14.05,
+    "TimeVSD" : 14.05,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.98,
+    "TimeLvl" : 14.07,
+    "TimeVSD" : 14.07,
+    "VSDInFlow" : 33.6,
+    "VSDOutFlow" : 39.8
+  }, {
+    "LevelTankA" : 20.78,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 14.09,
+    "TimeVSD" : 14.09,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 23.4,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 14.1,
+    "TimeVSD" : 14.1,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 24.06,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 14.12,
+    "TimeVSD" : 14.12,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 22.66,
+    "LevelTankB" : 15.16,
+    "TimeLvl" : 14.14,
+    "TimeVSD" : 14.14,
+    "VSDInFlow" : 36.6,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 14.15,
+    "TimeVSD" : 14.15,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.52,
+    "LevelTankB" : 24.41,
+    "TimeLvl" : 14.17,
+    "TimeVSD" : 14.17,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54.2
+  }, {
+    "LevelTankA" : 15.98,
+    "LevelTankB" : 21.99,
+    "TimeLvl" : 14.19,
+    "TimeVSD" : 14.19,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 15.98,
+    "LevelTankB" : 21.99,
+    "TimeLvl" : 14.2,
+    "TimeVSD" : 14.2,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 15.98,
+    "LevelTankB" : 21.99,
+    "TimeLvl" : 14.21,
+    "TimeVSD" : 14.21,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : "-",
+    "LevelTankB" : "-",
+    "TimeLvl" : 14.22,
+    "TimeVSD" : 14.22,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 24.38,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 14.23,
+    "TimeVSD" : 14.23,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.48,
+    "LevelTankB" : 15.04,
+    "TimeLvl" : 14.25,
+    "TimeVSD" : 14.25,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.2
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 14.27,
+    "TimeVSD" : 14.27,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 23.36,
+    "TimeLvl" : 14.28,
+    "TimeVSD" : 14.28,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 20.94,
+    "LevelTankB" : 23.36,
+    "TimeLvl" : 14.3,
+    "TimeVSD" : 14.3,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51.2
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 14.32,
+    "TimeVSD" : 14.32,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 15.94,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 14.33,
+    "TimeVSD" : 14.33,
+    "VSDInFlow" : 33.8,
+    "VSDOutFlow" : 39.6
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 14.35,
+    "TimeVSD" : 14.35,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 25,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 14.37,
+    "TimeVSD" : 14.37,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.24,
+    "LevelTankB" : 14.61,
+    "TimeLvl" : 14.38,
+    "TimeVSD" : 14.38,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35.2
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.86,
+    "TimeLvl" : 14.4,
+    "TimeVSD" : 14.4,
+    "VSDInFlow" : 30.2,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 24.02,
+    "TimeLvl" : 14.42,
+    "TimeVSD" : 14.42,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.23,
+    "LevelTankB" : 22.7,
+    "TimeLvl" : 14.43,
+    "TimeVSD" : 14.43,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 14.45,
+    "LevelTankB" : 20,
+    "TimeLvl" : 14.45,
+    "TimeVSD" : 14.45,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 20.74,
+    "LevelTankB" : 20,
+    "TimeLvl" : 14.47,
+    "TimeVSD" : 14.47,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 23.48,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 14.48,
+    "TimeVSD" : 14.48,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 24.02,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 14.5,
+    "TimeVSD" : 14.5,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.6
+  }, {
+    "LevelTankA" : 22.77,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 14.52,
+    "TimeVSD" : 14.52,
+    "VSDInFlow" : 34.4,
+    "VSDOutFlow" : 49.4
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 22.73,
+    "TimeLvl" : 14.53,
+    "TimeVSD" : 14.53,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.52,
+    "LevelTankB" : 24.02,
+    "TimeLvl" : 14.55,
+    "TimeVSD" : 14.55,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53.4
+  }, {
+    "LevelTankA" : 15.74,
+    "LevelTankB" : 21.25,
+    "TimeLvl" : 14.57,
+    "TimeVSD" : 14.57,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44
+  }, {
+    "LevelTankA" : 15.23,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 14.58,
+    "TimeVSD" : 14.58,
+    "VSDInFlow" : 34.6,
+    "VSDOutFlow" : 38.8
+  }, {
+    "LevelTankA" : 21.6,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 14.6,
+    "TimeVSD" : 14.6,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 24.41,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 14.62,
+    "TimeVSD" : 14.62,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 23.48,
+    "LevelTankB" : 15.12,
+    "TimeLvl" : 14.63,
+    "TimeVSD" : 14.63,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.6
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 14.65,
+    "TimeVSD" : 14.65,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 23.44,
+    "TimeLvl" : 14.67,
+    "TimeVSD" : 14.67,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.63,
+    "LevelTankB" : 23.24,
+    "TimeLvl" : 14.68,
+    "TimeVSD" : 14.68,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 50.6
+  }, {
+    "LevelTankA" : 14.61,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 14.7,
+    "TimeVSD" : 14.7,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 20.27,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 14.72,
+    "TimeVSD" : 14.72,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 23.24,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 14.73,
+    "TimeVSD" : 14.73,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 24.38,
+    "LevelTankB" : 15.7,
+    "TimeLvl" : 14.75,
+    "TimeVSD" : 14.75,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.4
+  }, {
+    "LevelTankA" : 22.77,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 14.77,
+    "TimeVSD" : 14.77,
+    "VSDInFlow" : 35.8,
+    "VSDOutFlow" : 49.4
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 14.78,
+    "TimeVSD" : 14.78,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 24.61,
+    "TimeLvl" : 14.8,
+    "TimeVSD" : 14.8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.2
+  }, {
+    "LevelTankA" : 20.04,
+    "LevelTankB" : 21.52,
+    "TimeLvl" : 14.82,
+    "TimeVSD" : 14.82,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.4
+  }, {
+    "LevelTankA" : 14.38,
+    "LevelTankB" : 15.2,
+    "TimeLvl" : 14.84,
+    "TimeVSD" : 14.84,
+    "VSDInFlow" : 36.4,
+    "VSDOutFlow" : 37
+  }, {
+    "LevelTankA" : 20.82,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 14.85,
+    "TimeVSD" : 14.85,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 23.44,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 14.87,
+    "TimeVSD" : 14.87,
+    "VSDInFlow" : 31.4,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 24.06,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 14.89,
+    "TimeVSD" : 14.89,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 15.2,
+    "TimeLvl" : 14.9,
+    "TimeVSD" : 14.9,
+    "VSDInFlow" : 36.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 22.54,
+    "TimeLvl" : 14.92,
+    "TimeVSD" : 14.92,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 21.37,
+    "LevelTankB" : 24.06,
+    "TimeLvl" : 14.94,
+    "TimeVSD" : 14.94,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53.6
+  }, {
+    "LevelTankA" : 15.35,
+    "LevelTankB" : 21.29,
+    "TimeLvl" : 14.95,
+    "TimeVSD" : 14.95,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44.2
+  }, {
+    "LevelTankA" : 15.78,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 14.97,
+    "TimeVSD" : 14.97,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 14.99,
+    "TimeVSD" : 14.99,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 24.49,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 15,
+    "TimeVSD" : 15,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 24.65,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 15,
+    "TimeVSD" : 15,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.32,
+    "LevelTankB" : 14.73,
+    "TimeLvl" : 15.02,
+    "TimeVSD" : 15.02,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35.8
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 15.04,
+    "TimeVSD" : 15.04,
+    "VSDInFlow" : 30.8,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 23.95,
+    "TimeLvl" : 15.05,
+    "TimeVSD" : 15.05,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 20.16,
+    "LevelTankB" : 22.7,
+    "TimeLvl" : 15.07,
+    "TimeVSD" : 15.07,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 49
+  }, {
+    "LevelTankA" : 14.41,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 15.09,
+    "TimeVSD" : 15.09,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 20.74,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 15.1,
+    "TimeVSD" : 15.1,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 23.32,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 15.12,
+    "TimeVSD" : 15.12,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 24.1,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 15.14,
+    "TimeVSD" : 15.14,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39.6
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 14.73,
+    "TimeLvl" : 15.15,
+    "TimeVSD" : 15.15,
+    "VSDInFlow" : 37.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 22.15,
+    "TimeLvl" : 15.17,
+    "TimeVSD" : 15.17,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 21.52,
+    "LevelTankB" : 24.49,
+    "TimeLvl" : 15.19,
+    "TimeVSD" : 15.19,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 54.6
+  }, {
+    "LevelTankA" : 15.7,
+    "LevelTankB" : 21.45,
+    "TimeLvl" : 15.2,
+    "TimeVSD" : 15.2,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45
+  }, {
+    "LevelTankA" : 15.35,
+    "LevelTankB" : 20,
+    "TimeLvl" : 15.22,
+    "TimeVSD" : 15.22,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 21.88,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 15.24,
+    "TimeVSD" : 15.24,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 24.41,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 15.25,
+    "TimeVSD" : 15.25,
+    "VSDInFlow" : 30.8,
+    "VSDOutFlow" : 42.6
+  }, {
+    "LevelTankA" : 23.44,
+    "LevelTankB" : 15.16,
+    "TimeLvl" : 15.27,
+    "TimeVSD" : 15.27,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.8
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 15.29,
+    "TimeVSD" : 15.29,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 23.48,
+    "TimeLvl" : 15.3,
+    "TimeVSD" : 15.3,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 20.31,
+    "LevelTankB" : 23.16,
+    "TimeLvl" : 15.32,
+    "TimeVSD" : 15.32,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 50.2
+  }, {
+    "LevelTankA" : 14.49,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 15.34,
+    "TimeVSD" : 15.34,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 20.27,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 15.35,
+    "TimeVSD" : 15.35,
+    "VSDInFlow" : 32.2,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 22.81,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 15.37,
+    "TimeVSD" : 15.37,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 24.57,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 15.39,
+    "TimeVSD" : 15.39,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 22.73,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 15.4,
+    "TimeVSD" : 15.4,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 49.2
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 21.56,
+    "TimeLvl" : 15.42,
+    "TimeVSD" : 15.42,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 21.56,
+    "LevelTankB" : 25,
+    "TimeLvl" : 15.44,
+    "TimeVSD" : 15.44,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 56
+  }, {
+    "LevelTankA" : 15.82,
+    "LevelTankB" : 21.95,
+    "TimeLvl" : 15.45,
+    "TimeVSD" : 15.45,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 15.47,
+    "TimeVSD" : 15.47,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 21.45,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 15.49,
+    "TimeVSD" : 15.49,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 23.98,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 15.5,
+    "TimeVSD" : 15.5,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.79,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 15.52,
+    "TimeVSD" : 15.52,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.8
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 15.9,
+    "TimeLvl" : 15.54,
+    "TimeVSD" : 15.54,
+    "VSDInFlow" : 34,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 23.16,
+    "TimeLvl" : 15.55,
+    "TimeVSD" : 15.55,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.2
+  }, {
+    "LevelTankA" : 20.66,
+    "LevelTankB" : 23.44,
+    "TimeLvl" : 15.57,
+    "TimeVSD" : 15.57,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51.6
+  }, {
+    "LevelTankA" : 14.57,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 15.59,
+    "TimeVSD" : 15.59,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 20.16,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 15.6,
+    "TimeVSD" : 15.6,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 15.62,
+    "TimeVSD" : 15.62,
+    "VSDInFlow" : 30.8,
+    "VSDOutFlow" : 42.6
+  }, {
+    "LevelTankA" : 24.65,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 15.64,
+    "TimeVSD" : 15.64,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 22.81,
+    "LevelTankB" : 14.49,
+    "TimeLvl" : 15.65,
+    "TimeVSD" : 15.65,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.6
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 21.37,
+    "TimeLvl" : 15.67,
+    "TimeVSD" : 15.67,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 21.56,
+    "LevelTankB" : 24.61,
+    "TimeLvl" : 15.69,
+    "TimeVSD" : 15.69,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 45.6
+  }, {
+    "LevelTankA" : 15.82,
+    "LevelTankB" : 22.07,
+    "TimeLvl" : 15.7,
+    "TimeVSD" : 15.7,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 15.04,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 15.72,
+    "TimeVSD" : 15.72,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 40.2
+  }, {
+    "LevelTankA" : 21.33,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 15.74,
+    "TimeVSD" : 15.74,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 23.87,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 15.75,
+    "TimeVSD" : 15.75,
+    "VSDInFlow" : 30.8,
+    "VSDOutFlow" : 42.6
+  }, {
+    "LevelTankA" : 23.87,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 15.77,
+    "TimeVSD" : 15.77,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.6
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 15.79,
+    "TimeVSD" : 15.79,
+    "VSDInFlow" : 35.4,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.88,
+    "LevelTankB" : 22.77,
+    "TimeLvl" : 15.8,
+    "TimeVSD" : 15.8,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46
+  }, {
+    "LevelTankA" : 20.7,
+    "LevelTankB" : 23.79,
+    "TimeLvl" : 15.82,
+    "TimeVSD" : 15.82,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.2
+  }, {
+    "LevelTankA" : 14.61,
+    "LevelTankB" : 20.82,
+    "TimeLvl" : 15.84,
+    "TimeVSD" : 15.84,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 43
+  }, {
+    "LevelTankA" : 20.12,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 15.85,
+    "TimeVSD" : 15.85,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 15.87,
+    "TimeVSD" : 15.87,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 24.65,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 15.89,
+    "TimeVSD" : 15.89,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 22.81,
+    "LevelTankB" : 14.45,
+    "TimeLvl" : 15.9,
+    "TimeVSD" : 15.9,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.4
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 21.29,
+    "TimeLvl" : 15.92,
+    "TimeVSD" : 15.92,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 24.41,
+    "TimeLvl" : 15.94,
+    "TimeVSD" : 15.94,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.2
+  }, {
+    "LevelTankA" : 20,
+    "LevelTankB" : 22.5,
+    "TimeLvl" : 15.95,
+    "TimeVSD" : 15.95,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 14.41,
+    "LevelTankB" : 15.86,
+    "TimeLvl" : 15.97,
+    "TimeVSD" : 15.97,
+    "VSDInFlow" : 34.2,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 20.94,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 15.99,
+    "TimeVSD" : 15.99,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 23.44,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 16,
+    "TimeVSD" : 16,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.87,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 16,
+    "TimeVSD" : 16,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.87,
+    "LevelTankB" : 15.27,
+    "TimeLvl" : 16.02,
+    "TimeVSD" : 16.02,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.4
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 20,
+    "TimeLvl" : 16.04,
+    "TimeVSD" : 16.04,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 48.6
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 23.28,
+    "TimeLvl" : 16.05,
+    "TimeVSD" : 16.05,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 20.74,
+    "LevelTankB" : 23.36,
+    "TimeLvl" : 16.07,
+    "TimeVSD" : 16.07,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51.2
+  }, {
+    "LevelTankA" : 14.73,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 16.09,
+    "TimeVSD" : 16.09,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 20.04,
+    "LevelTankB" : 20.16,
+    "TimeLvl" : 16.1,
+    "TimeVSD" : 16.1,
+    "VSDInFlow" : 32.6,
+    "VSDOutFlow" : 40.8
+  }, {
+    "LevelTankA" : 22.62,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 16.12,
+    "TimeVSD" : 16.12,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 25,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 16.14,
+    "TimeVSD" : 16.14,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.13,
+    "LevelTankB" : 14.53,
+    "TimeLvl" : 16.15,
+    "TimeVSD" : 16.15,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.8
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 21.25,
+    "TimeLvl" : 16.17,
+    "TimeVSD" : 16.17,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.6
+  }, {
+    "LevelTankA" : 21.88,
+    "LevelTankB" : 24.49,
+    "TimeLvl" : 16.19,
+    "TimeVSD" : 16.19,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46
+  }, {
+    "LevelTankA" : 15.98,
+    "LevelTankB" : 22.23,
+    "TimeLvl" : 16.2,
+    "TimeVSD" : 16.2,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 14.57,
+    "LevelTankB" : 15.94,
+    "TimeLvl" : 16.22,
+    "TimeVSD" : 16.22,
+    "VSDInFlow" : 33.8,
+    "VSDOutFlow" : 39.6
+  }, {
+    "LevelTankA" : 21.25,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 16.24,
+    "TimeVSD" : 16.24,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 23.87,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 16.25,
+    "TimeVSD" : 16.25,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 23.91,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 16.27,
+    "TimeVSD" : 16.27,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 16.29,
+    "TimeVSD" : 16.29,
+    "VSDInFlow" : 34.6,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 22.85,
+    "TimeLvl" : 16.3,
+    "TimeVSD" : 16.3,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 20.82,
+    "LevelTankB" : 23.79,
+    "TimeLvl" : 16.32,
+    "TimeVSD" : 16.32,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52
+  }, {
+    "LevelTankA" : 14.73,
+    "LevelTankB" : 20.78,
+    "TimeLvl" : 16.34,
+    "TimeVSD" : 16.34,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.8
+  }, {
+    "LevelTankA" : 20,
+    "LevelTankB" : 20.2,
+    "TimeLvl" : 16.35,
+    "TimeVSD" : 16.35,
+    "VSDInFlow" : 32.4,
+    "VSDOutFlow" : 41
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 16.37,
+    "TimeVSD" : 16.37,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 24.73,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 16.39,
+    "TimeVSD" : 16.39,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42.6
+  }, {
+    "LevelTankA" : 23.13,
+    "LevelTankB" : 14.57,
+    "TimeLvl" : 16.4,
+    "TimeVSD" : 16.4,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 35
+  }, {
+    "LevelTankA" : 22.15,
+    "LevelTankB" : 20.98,
+    "TimeLvl" : 16.42,
+    "TimeVSD" : 16.42,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 21.6,
+    "LevelTankB" : 24.45,
+    "TimeLvl" : 16.44,
+    "TimeVSD" : 16.44,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 45.8
+  }, {
+    "LevelTankA" : 15.94,
+    "LevelTankB" : 22.5,
+    "TimeLvl" : 16.45,
+    "TimeVSD" : 16.45,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 14.61,
+    "LevelTankB" : 20,
+    "TimeLvl" : 16.47,
+    "TimeVSD" : 16.47,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 16.49,
+    "TimeVSD" : 16.49,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.83,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 16.5,
+    "TimeVSD" : 16.5,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.91,
+    "LevelTankB" : 15.74,
+    "TimeLvl" : 16.52,
+    "TimeVSD" : 16.52,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.6
+  }, {
+    "LevelTankA" : 22.54,
+    "LevelTankB" : 15.35,
+    "TimeLvl" : 16.54,
+    "TimeVSD" : 16.54,
+    "VSDInFlow" : 35.6,
+    "VSDOutFlow" : 48.2
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 22.5,
+    "TimeLvl" : 16.55,
+    "TimeVSD" : 16.55,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 22.5,
+    "TimeLvl" : 16.57,
+    "TimeVSD" : 16.57,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 22.5,
+    "TimeLvl" : 16.58,
+    "TimeVSD" : 16.58,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.6
+  }, {
+    "LevelTankA" : "-",
+    "LevelTankB" : "-",
+    "TimeLvl" : 16.59,
+    "TimeVSD" : 16.59,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 20.7,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 16.61,
+    "TimeVSD" : 16.61,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 23.24,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 16.62,
+    "TimeVSD" : 16.62,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 24.41,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 16.64,
+    "TimeVSD" : 16.64,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 40.4
+  }, {
+    "LevelTankA" : 22.58,
+    "LevelTankB" : 14.41,
+    "TimeLvl" : 16.66,
+    "TimeVSD" : 16.66,
+    "VSDInFlow" : 39.2,
+    "VSDOutFlow" : 48.4
+  }, {
+    "LevelTankA" : 22.03,
+    "LevelTankB" : 21.95,
+    "TimeLvl" : 16.67,
+    "TimeVSD" : 16.67,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 21.48,
+    "LevelTankB" : 24.69,
+    "TimeLvl" : 16.69,
+    "TimeVSD" : 16.69,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.6
+  }, {
+    "LevelTankA" : 15.66,
+    "LevelTankB" : 21.6,
+    "TimeLvl" : 16.71,
+    "TimeVSD" : 16.71,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.8
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 20.12,
+    "TimeLvl" : 16.72,
+    "TimeVSD" : 16.72,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 21.91,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 16.74,
+    "TimeVSD" : 16.74,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 24.49,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 16.76,
+    "TimeVSD" : 16.76,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.4,
+    "LevelTankB" : 15.12,
+    "TimeLvl" : 16.77,
+    "TimeVSD" : 16.77,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 36.6
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 16.79,
+    "TimeVSD" : 16.79,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 21.88,
+    "LevelTankB" : 23.83,
+    "TimeLvl" : 16.81,
+    "TimeVSD" : 16.81,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.2
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.82,
+    "TimeVSD" : 16.82,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.84,
+    "TimeVSD" : 16.84,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.86,
+    "TimeVSD" : 16.86,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.87,
+    "TimeVSD" : 16.87,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.89,
+    "TimeVSD" : 16.89,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.91,
+    "TimeVSD" : 16.91,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.92,
+    "TimeVSD" : 16.92,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.94,
+    "TimeVSD" : 16.94,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.96,
+    "TimeVSD" : 16.96,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.97,
+    "TimeVSD" : 16.97,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 16.99,
+    "TimeVSD" : 16.99,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17,
+    "TimeVSD" : 17,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.01,
+    "TimeVSD" : 17.01,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.02,
+    "TimeVSD" : 17.02,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.04,
+    "TimeVSD" : 17.04,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.06,
+    "TimeVSD" : 17.06,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.07,
+    "TimeVSD" : 17.07,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.09,
+    "TimeVSD" : 17.09,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.11,
+    "TimeVSD" : 17.11,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.12,
+    "TimeVSD" : 17.12,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.13,
+    "TimeVSD" : 17.13,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : "-",
+    "LevelTankB" : "-",
+    "TimeLvl" : 17.18,
+    "TimeVSD" : 17.18,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.2,
+    "TimeVSD" : 17.2,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.22,
+    "TimeVSD" : 17.22,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 22.19,
+    "LevelTankB" : 24.65,
+    "TimeLvl" : 17.23,
+    "TimeVSD" : 17.23,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 25.16,
+    "TimeLvl" : 17.25,
+    "TimeVSD" : 17.25,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 56.8
+  }, {
+    "LevelTankA" : 24.61,
+    "LevelTankB" : 23.91,
+    "TimeLvl" : 17.27,
+    "TimeVSD" : 17.27,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 52.8
+  }, {
+    "LevelTankA" : 22.77,
+    "LevelTankB" : 21.52,
+    "TimeLvl" : 17.28,
+    "TimeVSD" : 17.28,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.4
+  }, {
+    "LevelTankA" : "-",
+    "LevelTankB" : "-",
+    "TimeLvl" : 17.29,
+    "TimeVSD" : 17.29,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 20.86,
+    "LevelTankB" : 15.63,
+    "TimeLvl" : 17.31,
+    "TimeVSD" : 17.31,
+    "VSDInFlow" : 35.4,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : "-",
+    "LevelTankB" : "-",
+    "TimeLvl" : 17.32,
+    "TimeVSD" : 17.32,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 0
+  }, {
+    "LevelTankA" : 24.69,
+    "LevelTankB" : 24.69,
+    "TimeLvl" : 17.33,
+    "TimeVSD" : 17.33,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 0.02
+  }, {
+    "LevelTankA" : 22.81,
+    "LevelTankB" : 22.15,
+    "TimeLvl" : 17.35,
+    "TimeVSD" : 17.35,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.4
+  }, {
+    "LevelTankA" : 20.82,
+    "LevelTankB" : 15.78,
+    "TimeLvl" : 17.37,
+    "TimeVSD" : 17.37,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 38.8
+  }, {
+    "LevelTankA" : 15.82,
+    "LevelTankB" : 15.31,
+    "TimeLvl" : 17.38,
+    "TimeVSD" : 17.38,
+    "VSDInFlow" : 35.8,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 15.86,
+    "LevelTankB" : 22.58,
+    "TimeLvl" : 17.4,
+    "TimeVSD" : 17.4,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 39.2
+  }, {
+    "LevelTankA" : 15.66,
+    "LevelTankB" : 24.06,
+    "TimeLvl" : 17.42,
+    "TimeVSD" : 17.42,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53.6
+  }, {
+    "LevelTankA" : 15.66,
+    "LevelTankB" : 22.03,
+    "TimeLvl" : 17.43,
+    "TimeVSD" : 17.43,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.8
+  }, {
+    "LevelTankA" : 21.99,
+    "LevelTankB" : 21.48,
+    "TimeLvl" : 17.45,
+    "TimeVSD" : 17.45,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 45.2
+  }, {
+    "LevelTankA" : 24.53,
+    "LevelTankB" : 21.29,
+    "TimeLvl" : 17.47,
+    "TimeVSD" : 17.47,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 44.2
+  }, {
+    "LevelTankA" : 23.24,
+    "LevelTankB" : 15.2,
+    "TimeLvl" : 17.48,
+    "TimeVSD" : 17.48,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 17.5,
+    "TimeVSD" : 17.5,
+    "VSDInFlow" : 33,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 21.52,
+    "LevelTankB" : 23.28,
+    "TimeLvl" : 17.52,
+    "TimeVSD" : 17.52,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 45.4
+  }, {
+    "LevelTankA" : 20.27,
+    "LevelTankB" : 23.36,
+    "TimeLvl" : 17.53,
+    "TimeVSD" : 17.53,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 51.2
+  }, {
+    "LevelTankA" : 14.49,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 17.55,
+    "TimeVSD" : 17.55,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 20.27,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 17.57,
+    "TimeVSD" : 17.57,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 22.81,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 17.58,
+    "TimeVSD" : 17.58,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 24.57,
+    "LevelTankB" : 20.23,
+    "TimeLvl" : 17.6,
+    "TimeVSD" : 17.6,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.2
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 14.38,
+    "TimeLvl" : 17.62,
+    "TimeVSD" : 17.62,
+    "VSDInFlow" : 39.4,
+    "VSDOutFlow" : 48.8
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 21.48,
+    "TimeLvl" : 17.63,
+    "TimeVSD" : 17.63,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 21.48,
+    "LevelTankB" : 24.73,
+    "TimeLvl" : 17.65,
+    "TimeVSD" : 17.65,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 55.8
+  }, {
+    "LevelTankA" : 15.63,
+    "LevelTankB" : 21.6,
+    "TimeLvl" : 17.67,
+    "TimeVSD" : 17.67,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 45.8
+  }, {
+    "LevelTankA" : 15.2,
+    "LevelTankB" : 20,
+    "TimeLvl" : 17.68,
+    "TimeVSD" : 17.68,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 21.45,
+    "LevelTankB" : 20.31,
+    "TimeLvl" : 17.7,
+    "TimeVSD" : 17.7,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.02,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 17.72,
+    "TimeVSD" : 17.72,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 23.75,
+    "LevelTankB" : 15.27,
+    "TimeLvl" : 17.73,
+    "TimeVSD" : 17.73,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 37.4
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 20.04,
+    "TimeLvl" : 17.75,
+    "TimeVSD" : 17.75,
+    "VSDInFlow" : 33.2,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.88,
+    "LevelTankB" : 23.32,
+    "TimeLvl" : 17.77,
+    "TimeVSD" : 17.77,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.2
+  }, {
+    "LevelTankA" : 20.31,
+    "LevelTankB" : 23.28,
+    "TimeLvl" : 17.78,
+    "TimeVSD" : 17.78,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 50.8
+  }, {
+    "LevelTankA" : 14.61,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 17.8,
+    "TimeVSD" : 17.8,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 20.16,
+    "LevelTankB" : 20.27,
+    "TimeLvl" : 17.82,
+    "TimeVSD" : 17.82,
+    "VSDInFlow" : 32,
+    "VSDOutFlow" : 41.4
+  }, {
+    "LevelTankA" : 22.7,
+    "LevelTankB" : 20.7,
+    "TimeLvl" : 17.83,
+    "TimeVSD" : 17.83,
+    "VSDInFlow" : 31,
+    "VSDOutFlow" : 42.4
+  }, {
+    "LevelTankA" : 24.65,
+    "LevelTankB" : 20.63,
+    "TimeLvl" : 17.85,
+    "TimeVSD" : 17.85,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 42
+  }, {
+    "LevelTankA" : 22.77,
+    "LevelTankB" : 14.49,
+    "TimeLvl" : 17.87,
+    "TimeVSD" : 17.87,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 34.6
+  }, {
+    "LevelTankA" : 22.07,
+    "LevelTankB" : 21.37,
+    "TimeLvl" : 17.88,
+    "TimeVSD" : 17.88,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 47
+  }, {
+    "LevelTankA" : 21.52,
+    "LevelTankB" : 24.57,
+    "TimeLvl" : 17.9,
+    "TimeVSD" : 17.9,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 45.4
+  }, {
+    "LevelTankA" : 15.78,
+    "LevelTankB" : 22.15,
+    "TimeLvl" : 17.92,
+    "TimeVSD" : 17.92,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 47.2
+  }, {
+    "LevelTankA" : 15,
+    "LevelTankB" : 20,
+    "TimeLvl" : 17.93,
+    "TimeVSD" : 17.93,
+    "VSDInFlow" : 33.4,
+    "VSDOutFlow" : 40
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 17.95,
+    "TimeVSD" : 17.95,
+    "VSDInFlow" : 31.6,
+    "VSDOutFlow" : 41.8
+  }, {
+    "LevelTankA" : 23.79,
+    "LevelTankB" : 20.74,
+    "TimeLvl" : 17.97,
+    "TimeVSD" : 17.97,
+    "VSDInFlow" : 30.8,
+    "VSDOutFlow" : 42.6
+  }, {
+    "LevelTankA" : 23.95,
+    "LevelTankB" : 15.82,
+    "TimeLvl" : 17.98,
+    "TimeVSD" : 17.98,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 39
+  }, {
+    "LevelTankA" : 22.23,
+    "LevelTankB" : 15,
+    "TimeLvl" : 18,
+    "TimeVSD" : 18,
+    "VSDInFlow" : 37.4,
+    "VSDOutFlow" : 47.8
+  }, {
+    "LevelTankA" : 22.5,
+    "LevelTankB" : 15.2,
+    "TimeLvl" : 18,
+    "TimeVSD" : 18,
+    "VSDInFlow" : 36.4,
+    "VSDOutFlow" : 48
+  }, {
+    "LevelTankA" : 21.95,
+    "LevelTankB" : 22.54,
+    "TimeLvl" : 18.02,
+    "TimeVSD" : 18.02,
+    "VSDInFlow" : 30,
+    "VSDOutFlow" : 46.4
+  }, {
+    "LevelTankA" : 20.98,
+    "LevelTankB" : 24.06,
+    "TimeLvl" : 18.03,
+    "TimeVSD" : 18.03,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 53.6
+  }, {
+    "LevelTankA" : 15.12,
+    "LevelTankB" : 21.29,
+    "TimeLvl" : 18.05,
+    "TimeVSD" : 18.05,
+    "VSDInFlow" : 0,
+    "VSDOutFlow" : 44.2
+  }, {
+    "LevelTankA" : 15.7,
+    "LevelTankB" : 20.08,
+    "TimeLvl" : 18.07,
+    "TimeVSD" : 18.07,
+    "VSDInFlow" : 32.8,
+    "VSDOutFlow" : 40.6
+  }, {
+    "LevelTankA" : 22.11,
+    "LevelTankB" : 20.35,
+    "TimeLvl" : 18.08,
+    "TimeVSD" : 18.08,
+    "VSDInFlow" : 31.8,
+    "VSDOutFlow" : 41.6
+  }, {
+    "LevelTankA" : 24.73,
+    "LevelTankB" : 20.66,
+    "TimeLvl" : 18.1,
+    "TimeVSD" : 18.1,
+    "VSDInFlow" : 31.2,
+    "VSDOutFlow" : 42.2
+  }, {
+    "LevelTankA" : 25.2,
+    "LevelTankB" : 20.78,
+    "TimeLvl" : 18.12,
+    "TimeVSD" : 18.12,
+    "VSDInFlow" : 0.02,
+    "VSDOutFlow" : 0.02
+  } 
+]
 
